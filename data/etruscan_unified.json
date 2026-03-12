@@ -1439,5 +1439,157 @@
         "year": 1984
       }
     ]
+  },
+  {
+    "id": "art-tomb-triclinium",
+    "name": "Tomb of the Triclinium Frescoes",
+    "type": "artifact",
+    "category": "wall painting",
+    "period": "Classical",
+    "date_range": "ca. 470 BCE",
+    "date_begin": -480,
+    "date_end": -460,
+    "medium": "Fresco on tufa",
+    "institution": "In situ (Monterozzi necropolis, Tarquinia)",
+    "provenance": "Tarquinia",
+    "description": "Brilliantly preserved banquet scene with dancers, musicians playing the double flute, and diners on couches. Shows the joyful Etruscan approach to death and the afterlife that so contrasted with later Roman severity.",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 42.2422,
+      "lng": 11.7614,
+      "modern_name": "Tarquinia",
+      "ancient_name": "Tarchna"
+    }
+  },
+  {
+    "id": "art-tomb-bulls",
+    "name": "Tomb of the Bulls Frescoes",
+    "type": "artifact",
+    "category": "wall painting",
+    "period": "Archaic",
+    "date_range": "ca. 540\u2013530 BCE",
+    "date_begin": -540,
+    "date_end": -530,
+    "medium": "Fresco on tufa",
+    "institution": "In situ (Monterozzi necropolis, Tarquinia)",
+    "provenance": "Tarquinia",
+    "description": "The oldest known painted tomb in Tarquinia. Shows Achilles ambushing Troilus at a fountain. Includes explicit erotic scenes that reflect Etruscan comfort with sexuality \u2014 one of the aspects that scandalized later Roman writers.",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 42.2422,
+      "lng": 11.7614,
+      "modern_name": "Tarquinia",
+      "ancient_name": "Tarchna"
+    }
+  },
+  {
+    "id": "art-tomb-hunting-fishing",
+    "name": "Tomb of Hunting and Fishing Frescoes",
+    "type": "artifact",
+    "category": "wall painting",
+    "period": "Archaic",
+    "date_range": "ca. 530\u2013520 BCE",
+    "date_begin": -530,
+    "date_end": -520,
+    "medium": "Fresco on tufa",
+    "institution": "In situ (Monterozzi necropolis, Tarquinia)",
+    "provenance": "Tarquinia",
+    "description": "Unique landscape painting showing seabirds, dolphins, fishermen, and hunters in a vivid natural setting. The only true landscape painting in Etruscan art, with a remarkable sense of depth and atmosphere.",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 42.2422,
+      "lng": 11.7614,
+      "modern_name": "Tarquinia",
+      "ancient_name": "Tarchna"
+    }
+  },
+  {
+    "id": "site-sovana",
+    "name": "Sovana (Suana)",
+    "type": "site",
+    "category": "settlement/necropolis",
+    "period": "Archaic\u2013Hellenistic",
+    "date_range": "700\u2013200 BCE",
+    "date_begin": -700,
+    "date_end": -200,
+    "description": "Etruscan settlement famous for its rock-cut tombs, including the Tomb of the Siren and the monumental Tomb Ildebranda \u2014 a temple-facade tomb carved entirely from living rock. Located in the dramatic tufa landscape of the Maremma.",
+    "location": {
+      "lat": 42.6583,
+      "lng": 11.6444,
+      "modern_name": "Sovana, Tuscany",
+      "ancient_name": "Suana"
+    }
+  },
+  {
+    "id": "site-san-giuliano",
+    "name": "San Giuliano Necropolis",
+    "type": "site",
+    "category": "necropolis",
+    "period": "Archaic\u2013Hellenistic",
+    "date_range": "700\u2013300 BCE",
+    "date_begin": -700,
+    "date_end": -300,
+    "description": "Spectacular rock-cut necropolis near Barbarano Romano with cube tombs, tumuli, and elaborate facade tombs. The Tomb of the Queen and the Cuccumella tumulus are highlights. Less visited than Cerveteri but equally impressive.",
+    "location": {
+      "lat": 42.2353,
+      "lng": 12.0667,
+      "modern_name": "Barbarano Romano, Lazio",
+      "ancient_name": "San Giuliano"
+    }
+  },
+  {
+    "id": "site-adria",
+    "name": "Adria (Hatria)",
+    "type": "site",
+    "category": "city",
+    "period": "Archaic\u2013Hellenistic",
+    "date_range": "600\u2013200 BCE",
+    "date_begin": -600,
+    "date_end": -200,
+    "description": "Etruscan trading city that gave its name to the Adriatic Sea. Strategic port for trade between Etruscans, Greeks, and Venetic peoples. Rich archaeological finds including imported Greek pottery.",
+    "location": {
+      "lat": 45.0553,
+      "lng": 12.0564,
+      "modern_name": "Adria, Veneto",
+      "ancient_name": "Hatria"
+    }
+  },
+  {
+    "id": "site-mantua",
+    "name": "Mantua (Manthua)",
+    "type": "site",
+    "category": "city",
+    "period": "Archaic\u2013Hellenistic",
+    "date_range": "600\u2013200 BCE",
+    "date_begin": -600,
+    "date_end": -200,
+    "description": "Etruscan city in the Po Valley. According to Virgil, his birthplace was originally founded by Etruscans. Archaeological evidence confirms significant Etruscan presence before Celtic and then Roman control.",
+    "location": {
+      "lat": 45.1564,
+      "lng": 10.7914,
+      "modern_name": "Mantua, Lombardy",
+      "ancient_name": "Manthua"
+    }
+  },
+  {
+    "id": "art-capua-tile",
+    "name": "Capua Tile (Tegola di Capua)",
+    "type": "artifact",
+    "category": "inscription",
+    "period": "Classical",
+    "date_range": "ca. 470 BCE",
+    "date_begin": -480,
+    "date_end": -460,
+    "medium": "Terracotta tile",
+    "institution": "Antikensammlung Berlin",
+    "provenance": "Capua (Santa Maria Capua Vetere), Campania",
+    "description": "Terracotta tile inscribed with 62 lines of Etruscan text \u2014 the third longest Etruscan inscription after the Liber Linteus and the Tabula Capuana. Contains a religious calendar with dates, rituals, and deity names.",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 41.1067,
+      "lng": 14.2133,
+      "modern_name": "Santa Maria Capua Vetere",
+      "ancient_name": "Capua"
+    }
   }
 ]
