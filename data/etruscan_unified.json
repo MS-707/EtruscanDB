@@ -1,0 +1,1173 @@
+[
+  {
+    "id": "site-veii",
+    "name": "Veii",
+    "type": "site",
+    "category": "city",
+    "period": "Villanovan\u2013Roman",
+    "date_range": "1000\u2013264 BCE",
+    "description": "One of the most important Etruscan cities, closest to Rome. Fell to the Romans after a legendary 10-year siege led by Camillus in 396 BCE. Famous for the Apollo of Veii terracotta statue.",
+    "location": {
+      "lat": 42.0214,
+      "lng": 12.4003,
+      "modern_name": "Isola Farnese, Rome",
+      "ancient_name": "Veii"
+    },
+    "institution": "Museo Nazionale Etrusco di Villa Giulia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Aplu_Veio_01.JPG/440px-Aplu_Veio_01.JPG",
+    "sources": [
+      {
+        "title": "Veii (Veio): An Etruscan City",
+        "author": "Ward-Perkins, J.B.",
+        "year": 1961
+      }
+    ]
+  },
+  {
+    "id": "site-cerveteri",
+    "name": "Cerveteri (Caere)",
+    "type": "site",
+    "category": "city",
+    "period": "Villanovan\u2013Hellenistic",
+    "date_range": "900\u2013100 BCE",
+    "description": "Major Etruscan city-state known for its vast Banditaccia necropolis, a UNESCO World Heritage Site. Renowned for painted terracotta sarcophagi, including the famous Sarcophagus of the Spouses.",
+    "location": {
+      "lat": 42.0005,
+      "lng": 12.0986,
+      "modern_name": "Cerveteri, Lazio",
+      "ancient_name": "Caere/Cisra"
+    },
+    "institution": "Museo Nazionale Cerite",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Banditaccia_Tomba_dei_Capitelli.jpg/500px-Banditaccia_Tomba_dei_Capitelli.jpg",
+    "sources": [
+      {
+        "title": "Cerveteri: Three Centuries of Discovery",
+        "author": "Cristofani, M.",
+        "year": 1990
+      }
+    ]
+  },
+  {
+    "id": "site-tarquinia",
+    "name": "Tarquinia (Tarchna)",
+    "type": "site",
+    "category": "city",
+    "period": "Villanovan\u2013Roman",
+    "date_range": "1100\u2013300 BCE",
+    "description": "Major Etruscan city-state famous for its painted tombs \u2014 the largest collection of pre-Roman painting in the Mediterranean. UNESCO World Heritage Site alongside Cerveteri. Legendary birthplace of Tages, the child-prophet of Etruscan religion.",
+    "location": {
+      "lat": 42.2494,
+      "lng": 11.7556,
+      "modern_name": "Tarquinia, Lazio",
+      "ancient_name": "Tarchna"
+    },
+    "institution": "Museo Nazionale Tarquiniese",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Tarquinia_Tomb_of_the_Leopards.jpg/500px-Tarquinia_Tomb_of_the_Leopards.jpg",
+    "sources": [
+      {
+        "title": "Etruscan Painting: A Catalogue of Tarquinian Tomb Paintings",
+        "author": "Steingr\u00e4ber, S.",
+        "year": 2006
+      }
+    ]
+  },
+  {
+    "id": "site-vulci",
+    "name": "Vulci",
+    "type": "site",
+    "category": "city",
+    "period": "Villanovan\u2013Roman",
+    "date_range": "900\u2013280 BCE",
+    "description": "Wealthy Etruscan city-state and major center of bronze work and imported Greek pottery. The Fran\u00e7ois Tomb with its elaborate painted narrative cycles is one of the most important Etruscan monuments.",
+    "location": {
+      "lat": 42.4186,
+      "lng": 11.6333,
+      "modern_name": "Montalto di Castro, Lazio",
+      "ancient_name": "Velch"
+    },
+    "institution": "Museo Nazionale Archeologico di Vulci",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Ponte_dell%27Abbadia_Vulci.jpg/500px-Ponte_dell%27Abbadia_Vulci.jpg",
+    "sources": [
+      {
+        "title": "Vulci: Profile of an Etruscan City",
+        "author": "Moretti Sgubini, A.M.",
+        "year": 2001
+      }
+    ]
+  },
+  {
+    "id": "site-chiusi",
+    "name": "Chiusi (Clevsin)",
+    "type": "site",
+    "category": "city",
+    "period": "Villanovan\u2013Roman",
+    "date_range": "800\u2013200 BCE",
+    "description": "Important inland Etruscan city, seat of the legendary king Lars Porsenna who allegedly besieged Rome. Known for distinctive canopic jars with human-portrait lids and elaborate underground tomb complexes.",
+    "location": {
+      "lat": 43.0167,
+      "lng": 11.95,
+      "modern_name": "Chiusi, Tuscany",
+      "ancient_name": "Clevsin/Camars"
+    },
+    "institution": "Museo Archeologico Nazionale di Chiusi",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cinerary_Urn_with_Lid%2C_canopic_jar_from_Chiusi.jpg/400px-Cinerary_Urn_with_Lid%2C_canopic_jar_from_Chiusi.jpg",
+    "sources": [
+      {
+        "title": "Chiusi in the Age of Lars Porsenna",
+        "author": "Rasmussen, T.",
+        "year": 1979
+      }
+    ]
+  },
+  {
+    "id": "site-volterra",
+    "name": "Volterra (Velathri)",
+    "type": "site",
+    "category": "city",
+    "period": "Villanovan\u2013Roman",
+    "date_range": "800\u2013100 BCE",
+    "description": "Hilltop Etruscan city known for alabaster funerary urns with carved relief scenes. The Guarnacci Museum holds over 600 urns. The city's massive Etruscan walls still partially stand.",
+    "location": {
+      "lat": 43.4016,
+      "lng": 10.8625,
+      "modern_name": "Volterra, Tuscany",
+      "ancient_name": "Velathri"
+    },
+    "institution": "Museo Etrusco Guarnacci",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Shadow_of_the_Evening.jpg/300px-Shadow_of_the_Evening.jpg",
+    "sources": [
+      {
+        "title": "Volterra: The Story of an Etruscan City",
+        "author": "Fiumi, E.",
+        "year": 1961
+      }
+    ]
+  },
+  {
+    "id": "site-populonia",
+    "name": "Populonia (Pupluna)",
+    "type": "site",
+    "category": "city",
+    "period": "Villanovan\u2013Roman",
+    "date_range": "900\u2013200 BCE",
+    "description": "The only Etruscan city directly on the coast. Major center of iron smelting using ore from Elba. Remarkable tumulus tombs and industrial slag heaps that preserved underlying archaeological layers.",
+    "location": {
+      "lat": 42.9878,
+      "lng": 10.4914,
+      "modern_name": "Piombino, Tuscany",
+      "ancient_name": "Pupluna/Fufluna"
+    },
+    "institution": "Museo Archeologico di Populonia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Populonia_necropoli.jpg/500px-Populonia_necropoli.jpg",
+    "sources": [
+      {
+        "title": "Populonia in the Age of Iron",
+        "author": "Fedeli, F.",
+        "year": 1983
+      }
+    ]
+  },
+  {
+    "id": "site-vetulonia",
+    "name": "Vetulonia",
+    "type": "site",
+    "category": "city",
+    "period": "Villanovan\u2013Hellenistic",
+    "date_range": "900\u2013200 BCE",
+    "description": "Wealthy Etruscan city that allegedly gave Rome the fasces, curule chair, and toga praetexta \u2014 the insignia of Roman magistrates. Known for rich Orientalizing-period tomb goods including gold jewelry.",
+    "location": {
+      "lat": 42.8528,
+      "lng": 10.9722,
+      "modern_name": "Vetulonia, Tuscany",
+      "ancient_name": "Vetluna"
+    },
+    "institution": "Museo Civico Archeologico Isidoro Falchi",
+    "sources": [
+      {
+        "title": "Vetulonia and its Tombs",
+        "author": "Camporeale, G.",
+        "year": 1985
+      }
+    ]
+  },
+  {
+    "id": "site-orvieto",
+    "name": "Orvieto (Velzna)",
+    "type": "site",
+    "category": "city",
+    "period": "Archaic\u2013Hellenistic",
+    "date_range": "600\u2013264 BCE",
+    "description": "Often identified with the Etruscan Fanum Voltumnae, the sacred meeting place of the Etruscan League. The Belvedere Temple and Crocifisso del Tufo necropolis are major monuments.",
+    "location": {
+      "lat": 42.7186,
+      "lng": 12.1128,
+      "modern_name": "Orvieto, Umbria",
+      "ancient_name": "Velzna"
+    },
+    "institution": "Museo Archeologico Nazionale di Orvieto",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Crocifisso_del_Tufo_2.JPG/500px-Crocifisso_del_Tufo_2.JPG",
+    "sources": [
+      {
+        "title": "The Etruscan City-State of Volsinii",
+        "author": "Bizzarri, C.",
+        "year": 2016
+      }
+    ]
+  },
+  {
+    "id": "site-perugia",
+    "name": "Perugia (Perusia)",
+    "type": "site",
+    "category": "city",
+    "period": "Archaic\u2013Roman",
+    "date_range": "600\u201340 BCE",
+    "description": "Major Etruscan city. Home of the Cippus Perusinus, one of the longest surviving Etruscan inscriptions. The Etruscan Arch (Porta Augusta) and Volumni Hypogeum are outstanding monuments.",
+    "location": {
+      "lat": 43.1107,
+      "lng": 12.3908,
+      "modern_name": "Perugia, Umbria",
+      "ancient_name": "Perusia"
+    },
+    "institution": "Museo Archeologico Nazionale dell'Umbria",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arco_etrusco_-_perugia.jpg/400px-Arco_etrusco_-_perugia.jpg",
+    "sources": [
+      {
+        "title": "The Cippus Perusinus",
+        "author": "Rix, H.",
+        "year": 1991
+      }
+    ]
+  },
+  {
+    "id": "site-cortona",
+    "name": "Cortona (Curtun)",
+    "type": "site",
+    "category": "city",
+    "period": "Archaic\u2013Hellenistic",
+    "date_range": "600\u2013200 BCE",
+    "description": "Hilltop Etruscan city with impressive cyclopean walls. Home of the Tabula Cortonensis, a major Etruscan bronze inscription discovered in 1992. The Sodo melons (tumulus tombs) are notable.",
+    "location": {
+      "lat": 43.2753,
+      "lng": 11.9856,
+      "modern_name": "Cortona, Tuscany",
+      "ancient_name": "Curtun"
+    },
+    "institution": "MAEC - Museo dell'Accademia Etrusca",
+    "sources": [
+      {
+        "title": "The Tabula Cortonensis",
+        "author": "Agostiniani, L.",
+        "year": 2000
+      }
+    ]
+  },
+  {
+    "id": "site-marzabotto",
+    "name": "Marzabotto (Kainua)",
+    "type": "site",
+    "category": "city",
+    "period": "Archaic\u2013Classical",
+    "date_range": "500\u2013350 BCE",
+    "description": "Best-preserved example of Etruscan urban planning. Regular grid layout with orthogonal streets, drainage systems, and a sacred acropolis. Provides unique insight into Etruscan city design.",
+    "location": {
+      "lat": 44.3403,
+      "lng": 11.2044,
+      "modern_name": "Marzabotto, Emilia-Romagna",
+      "ancient_name": "Kainua"
+    },
+    "institution": "Museo Nazionale Etrusco Pompeo Aria",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Marzabotto_-_Kainua_03.jpg/500px-Marzabotto_-_Kainua_03.jpg",
+    "sources": [
+      {
+        "title": "Kainua-Marzabotto: An Etruscan City in the Po Valley",
+        "author": "Sassatelli, G.",
+        "year": 2008
+      }
+    ]
+  },
+  {
+    "id": "site-spina",
+    "name": "Spina",
+    "type": "site",
+    "category": "city",
+    "period": "Archaic\u2013Hellenistic",
+    "date_range": "530\u2013250 BCE",
+    "description": "Etruscan trading port on the Adriatic, key link between Etruscan and Greek commerce. Over 4,000 tombs excavated yielding extraordinary quantities of Attic pottery. Often called the 'Venice of the Etruscans'.",
+    "location": {
+      "lat": 44.6833,
+      "lng": 12.1833,
+      "modern_name": "Comacchio, Emilia-Romagna",
+      "ancient_name": "Spina"
+    },
+    "institution": "Museo Archeologico Nazionale di Ferrara",
+    "sources": [
+      {
+        "title": "Spina: An Etruscan Port City on the Adriatic",
+        "author": "Berti, F.",
+        "year": 1993
+      }
+    ]
+  },
+  {
+    "id": "site-pyrgi",
+    "name": "Pyrgi",
+    "type": "site",
+    "category": "sanctuary",
+    "period": "Archaic\u2013Hellenistic",
+    "date_range": "510\u2013200 BCE",
+    "description": "Port and major sanctuary of Cerveteri (Caere). Discovery of the Pyrgi Tablets \u2014 bilingual Etruscan-Phoenician gold sheets \u2014 was one of the most important archaeological finds for Etruscan language studies.",
+    "location": {
+      "lat": 42.0147,
+      "lng": 11.9556,
+      "modern_name": "Santa Severa, Lazio",
+      "ancient_name": "Pyrgi"
+    },
+    "institution": "Museo Nazionale Etrusco di Villa Giulia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Pyrgi_tablets.jpg/500px-Pyrgi_tablets.jpg",
+    "sources": [
+      {
+        "title": "The Pyrgi Tablets",
+        "author": "Pallottino, M.",
+        "year": 1964
+      }
+    ]
+  },
+  {
+    "id": "site-poggio-civitate",
+    "name": "Poggio Civitate (Murlo)",
+    "type": "site",
+    "category": "settlement",
+    "period": "Orientalizing\u2013Archaic",
+    "date_range": "675\u2013525 BCE",
+    "description": "Elite Etruscan residence with monumental architecture and extraordinary terracotta decorations. The 'Cowboy of Murlo' \u2014 a distinctive seated figure with broad-brimmed hat \u2014 is one of the most recognizable Etruscan artworks.",
+    "location": {
+      "lat": 43.1556,
+      "lng": 11.3994,
+      "modern_name": "Murlo, Tuscany",
+      "ancient_name": "Poggio Civitate"
+    },
+    "institution": "Antiquarium di Poggio Civitate, Murlo",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/PVMurlo.jpg/400px-PVMurlo.jpg",
+    "sources": [
+      {
+        "title": "Poggio Civitate: A Turning Point",
+        "author": "Phillips, K.",
+        "year": 1993
+      }
+    ]
+  },
+  {
+    "id": "site-roselle",
+    "name": "Roselle (Rusellae)",
+    "type": "site",
+    "category": "city",
+    "period": "Villanovan\u2013Roman",
+    "date_range": "800\u2013200 BCE",
+    "description": "One of the earliest Etruscan cities with massive 6th-century BCE walls still visible. Roman forum built over the Etruscan center. Ongoing excavations continue to reveal new structures.",
+    "location": {
+      "lat": 42.7878,
+      "lng": 11.1536,
+      "modern_name": "Roselle, Tuscany",
+      "ancient_name": "Rusellae"
+    },
+    "institution": "Museo Archeologico e d'Arte della Maremma",
+    "sources": [
+      {
+        "title": "Roselle: Gli scavi e la mostra",
+        "author": "Donati, L.",
+        "year": 1994
+      }
+    ]
+  },
+  {
+    "id": "site-fiesole",
+    "name": "Fiesole (Vipsul)",
+    "type": "site",
+    "category": "city",
+    "period": "Archaic\u2013Roman",
+    "date_range": "600\u2013100 BCE",
+    "description": "Etruscan hilltop city overlooking the Arno valley. The Etruscan temple, walls, and Roman theater are all visible in the archaeological park. Predates Florence.",
+    "location": {
+      "lat": 43.8064,
+      "lng": 11.2933,
+      "modern_name": "Fiesole, Tuscany",
+      "ancient_name": "Vipsul"
+    },
+    "institution": "Museo Civico Archeologico di Fiesole",
+    "sources": [
+      {
+        "title": "Fiesole: From the Origins to the Roman Conquest",
+        "author": "De Marco, M.",
+        "year": 1990
+      }
+    ]
+  },
+  {
+    "id": "site-arezzo",
+    "name": "Arezzo (Aritim)",
+    "type": "site",
+    "category": "city",
+    "period": "Archaic\u2013Roman",
+    "date_range": "600\u2013100 BCE",
+    "description": "Major Etruscan city famous for bronze production. The Chimera of Arezzo \u2014 one of the finest Etruscan bronzes \u2014 was found here in 1553. Also produced the remarkable Minerva statue.",
+    "location": {
+      "lat": 43.4633,
+      "lng": 11.8817,
+      "modern_name": "Arezzo, Tuscany",
+      "ancient_name": "Aritim"
+    },
+    "institution": "Museo Archeologico Nazionale di Arezzo",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chimera_d%27arezzo%2C_fi%2C_04.JPG/500px-Chimera_d%27arezzo%2C_fi%2C_04.JPG",
+    "sources": [
+      {
+        "title": "The Chimera of Arezzo",
+        "author": "Cristofani, M.",
+        "year": 1977
+      }
+    ]
+  },
+  {
+    "id": "site-bolsena",
+    "name": "Bolsena (Velzna/Volsinii Novi)",
+    "type": "site",
+    "category": "city",
+    "period": "Hellenistic\u2013Roman",
+    "date_range": "264\u2013100 BCE",
+    "description": "New Volsinii, where the Etruscans of Orvieto were forcibly relocated by Rome in 264 BCE. The Fanum Voltumnae \u2014 sacred meeting place of the Etruscan League \u2014 may have been relocated here.",
+    "location": {
+      "lat": 42.6442,
+      "lng": 11.9869,
+      "modern_name": "Bolsena, Lazio",
+      "ancient_name": "Volsinii Novi"
+    },
+    "institution": "Museo Territoriale del Lago di Bolsena",
+    "sources": [
+      {
+        "title": "Bolsena and the Fate of the Etruscan League",
+        "author": "Harris, W.V.",
+        "year": 1971
+      }
+    ]
+  },
+  {
+    "id": "site-norchia",
+    "name": "Norchia",
+    "type": "site",
+    "category": "necropolis",
+    "period": "Classical\u2013Hellenistic",
+    "date_range": "400\u2013200 BCE",
+    "description": "Spectacular rock-cut tomb facades carved into cliff faces. Some of the most monumental Etruscan funerary architecture, with elaborate temple-style facades cut from living rock.",
+    "location": {
+      "lat": 42.35,
+      "lng": 11.9167,
+      "modern_name": "Viterbo, Lazio",
+      "ancient_name": "Norchia"
+    },
+    "sources": [
+      {
+        "title": "Le tombe rupestri di Norchia",
+        "author": "Colonna di Paolo, E.",
+        "year": 1978
+      }
+    ]
+  },
+  {
+    "id": "site-banditaccia",
+    "name": "Banditaccia Necropolis",
+    "type": "site",
+    "category": "necropolis",
+    "period": "Villanovan\u2013Hellenistic",
+    "date_range": "900\u2013200 BCE",
+    "description": "UNESCO World Heritage Site. The largest ancient necropolis in the Mediterranean, with thousands of tombs laid out in a city-like plan. Tomb interiors mirror Etruscan domestic architecture.",
+    "location": {
+      "lat": 42.0042,
+      "lng": 12.0847,
+      "modern_name": "Cerveteri, Lazio",
+      "ancient_name": "Banditaccia"
+    },
+    "institution": "UNESCO / Soprintendenza Lazio",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Banditaccia_Panorama.JPG/600px-Banditaccia_Panorama.JPG",
+    "sources": [
+      {
+        "title": "The Banditaccia Necropolis at Cerveteri",
+        "author": "Naso, A.",
+        "year": 2005
+      }
+    ]
+  },
+  {
+    "id": "site-monterozzi",
+    "name": "Monterozzi Necropolis",
+    "type": "site",
+    "category": "necropolis",
+    "period": "Villanovan\u2013Hellenistic",
+    "date_range": "900\u2013200 BCE",
+    "description": "UNESCO World Heritage Site. Over 6,000 tombs, of which about 200 are painted \u2014 the finest collection of pre-Roman painting in Italy. Scenes of banqueting, athletics, dance, hunting, and the afterlife.",
+    "location": {
+      "lat": 42.2422,
+      "lng": 11.7614,
+      "modern_name": "Tarquinia, Lazio",
+      "ancient_name": "Monterozzi"
+    },
+    "institution": "UNESCO / Museo Nazionale Tarquiniese",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Etruscan_painting_1.jpg/500px-Etruscan_painting_1.jpg",
+    "sources": [
+      {
+        "title": "The Painted Tombs of Tarquinia",
+        "author": "Moretti, M.",
+        "year": 1974
+      }
+    ]
+  },
+  {
+    "id": "coll-villa-giulia",
+    "name": "Museo Nazionale Etrusco di Villa Giulia",
+    "type": "collection",
+    "category": "national museum",
+    "description": "The world's most important museum dedicated exclusively to pre-Roman Italic and Etruscan civilization. Houses the Sarcophagus of the Spouses, the Pyrgi Tablets, and the Apollo of Veii.",
+    "location": {
+      "lat": 41.9167,
+      "lng": 12.4764,
+      "modern_name": "Rome, Italy"
+    },
+    "holdings_estimate": "50,000+ objects",
+    "notable_objects": [
+      "Sarcophagus of the Spouses",
+      "Apollo of Veii",
+      "Pyrgi Tablets",
+      "Ficoroni Cista"
+    ],
+    "source_url": "https://www.museoetru.it/",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Sarcofago_degli_Sposi.jpg/500px-Sarcofago_degli_Sposi.jpg"
+  },
+  {
+    "id": "coll-met",
+    "name": "The Metropolitan Museum of Art",
+    "type": "collection",
+    "category": "encyclopedic museum",
+    "description": "One of the largest collections of Etruscan art outside Italy. Strong in bronzes, terracottas, gold jewelry, and pottery. The Etruscan chariot from Monteleone is a centerpiece.",
+    "location": {
+      "lat": 40.7794,
+      "lng": -73.9632,
+      "modern_name": "New York, USA"
+    },
+    "holdings_estimate": "130+ Etruscan objects",
+    "notable_objects": [
+      "Monteleone Chariot",
+      "Bronze mirror collection",
+      "Terracotta warriors"
+    ],
+    "source_url": "https://www.metmuseum.org/",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/MET_Monteleone_chariot.jpg/400px-MET_Monteleone_chariot.jpg"
+  },
+  {
+    "id": "coll-british-museum",
+    "name": "The British Museum",
+    "type": "collection",
+    "category": "encyclopedic museum",
+    "description": "Significant Etruscan collection including bronzes, pottery, jewelry, and terracottas. The Castellani collection of Etruscan jewelry is particularly notable.",
+    "location": {
+      "lat": 51.5194,
+      "lng": -0.127,
+      "modern_name": "London, UK"
+    },
+    "holdings_estimate": "500+ Etruscan objects",
+    "notable_objects": [
+      "Castellani jewelry collection",
+      "Barberini gold fibula",
+      "Etruscan bronze mirrors"
+    ],
+    "source_url": "https://www.britishmuseum.org/",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/FibulaPrenestina.jpg/400px-FibulaPrenestina.jpg"
+  },
+  {
+    "id": "coll-louvre",
+    "name": "Mus\u00e9e du Louvre",
+    "type": "collection",
+    "category": "encyclopedic museum",
+    "description": "Major Etruscan collection in the Department of Greek, Etruscan, and Roman Antiquities. The Campana collection forms the core, including outstanding bucchero pottery and painted terracottas.",
+    "location": {
+      "lat": 48.8606,
+      "lng": 2.3376,
+      "modern_name": "Paris, France"
+    },
+    "holdings_estimate": "300+ Etruscan objects",
+    "notable_objects": [
+      "Sarcophagus of the Spouses (second example)",
+      "Campana plaques",
+      "Bucchero collection"
+    ],
+    "source_url": "https://www.louvre.fr/"
+  },
+  {
+    "id": "coll-vatican",
+    "name": "Museo Gregoriano Etrusco (Vatican Museums)",
+    "type": "collection",
+    "category": "museum",
+    "description": "Founded by Pope Gregory XVI in 1837 to house Etruscan antiquities from papal excavations. Includes the remarkable Regolini-Galassi tomb contents from Cerveteri.",
+    "location": {
+      "lat": 41.9065,
+      "lng": 12.4536,
+      "modern_name": "Vatican City"
+    },
+    "holdings_estimate": "500+ Etruscan objects",
+    "notable_objects": [
+      "Regolini-Galassi tomb group",
+      "Mars of Todi bronze",
+      "Ficoroni Cista"
+    ],
+    "source_url": "https://www.museivaticani.va/"
+  },
+  {
+    "id": "coll-penn",
+    "name": "Penn Museum (University of Pennsylvania)",
+    "type": "collection",
+    "category": "university museum",
+    "description": "Important Etruscan collection from early excavations at Narce, Vulci, and other sites. Strong research program in Etruscan archaeology continuing since the 19th century.",
+    "location": {
+      "lat": 39.9492,
+      "lng": -75.1914,
+      "modern_name": "Philadelphia, USA"
+    },
+    "holdings_estimate": "200+ Etruscan objects",
+    "source_url": "https://www.penn.museum/"
+  },
+  {
+    "id": "coll-florence",
+    "name": "Museo Archeologico Nazionale di Firenze",
+    "type": "collection",
+    "category": "national museum",
+    "description": "One of Italy's most important archaeological museums. Houses the Chimera of Arezzo, the Arringatore (Orator) bronze, the Fran\u00e7ois Vase (Greek, found in an Etruscan tomb), and extensive Etruscan collections.",
+    "location": {
+      "lat": 43.7762,
+      "lng": 11.2628,
+      "modern_name": "Florence, Italy"
+    },
+    "holdings_estimate": "5,000+ Etruscan objects",
+    "notable_objects": [
+      "Chimera of Arezzo",
+      "Arringatore (Orator)",
+      "Fran\u00e7ois Vase",
+      "Mater Matuta from Chianciano"
+    ],
+    "source_url": "https://www.museoarcheologiconazionaledifirenze.it/",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chimera_d%27arezzo%2C_fi%2C_04.JPG/500px-Chimera_d%27arezzo%2C_fi%2C_04.JPG"
+  },
+  {
+    "id": "coll-guarnacci",
+    "name": "Museo Etrusco Guarnacci",
+    "type": "collection",
+    "category": "civic museum",
+    "description": "One of the oldest public museums in Europe (1761). Houses over 600 Etruscan alabaster funerary urns from Volterra, plus the famous 'Shadow of the Evening' elongated bronze figure.",
+    "location": {
+      "lat": 43.4016,
+      "lng": 10.8619,
+      "modern_name": "Volterra, Italy"
+    },
+    "holdings_estimate": "600+ funerary urns",
+    "notable_objects": [
+      "Ombra della Sera (Shadow of the Evening)",
+      "Married Couple urn lid",
+      "600+ alabaster urns"
+    ],
+    "source_url": "https://www.museoguarnacci.it/",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Shadow_of_the_Evening.jpg/300px-Shadow_of_the_Evening.jpg"
+  },
+  {
+    "id": "coll-maec-cortona",
+    "name": "MAEC - Museo dell'Accademia Etrusca e della Citt\u00e0 di Cortona",
+    "type": "collection",
+    "category": "academy museum",
+    "description": "Houses the Tabula Cortonensis \u2014 a major Etruscan bronze inscription. Also contains the famous Cortona chandelier (lampadario) and material from local Etruscan tombs.",
+    "location": {
+      "lat": 43.2753,
+      "lng": 11.9856,
+      "modern_name": "Cortona, Italy"
+    },
+    "notable_objects": [
+      "Tabula Cortonensis",
+      "Etruscan lampadario (chandelier)",
+      "Local tomb finds"
+    ],
+    "source_url": "https://cortonamaec.org/"
+  },
+  {
+    "id": "coll-tarquinia",
+    "name": "Museo Nazionale Tarquiniese",
+    "type": "collection",
+    "category": "national museum",
+    "description": "Housed in the Gothic-Renaissance Palazzo Vitelleschi. Contains finds from Tarquinia's painted tombs and necropoleis, including the famous terracotta Winged Horses.",
+    "location": {
+      "lat": 42.2508,
+      "lng": 11.7558,
+      "modern_name": "Tarquinia, Italy"
+    },
+    "notable_objects": [
+      "Winged Horses terracotta",
+      "Tomb paintings (detached frescoes)",
+      "Sarcophagi"
+    ],
+    "source_url": "https://www.museotarquiniese.it/",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Tarquinia_CavaliAlati.jpg/500px-Tarquinia_CavaliAlati.jpg"
+  },
+  {
+    "id": "coll-berlin",
+    "name": "Antikensammlung Berlin",
+    "type": "collection",
+    "category": "museum",
+    "description": "Important German collection of Etruscan art in the Altes Museum. Includes significant bronzes and pottery from 19th-century collecting.",
+    "location": {
+      "lat": 52.5195,
+      "lng": 13.3986,
+      "modern_name": "Berlin, Germany"
+    },
+    "source_url": "https://www.smb.museum/en/museums-institutions/antikensammlung/"
+  },
+  {
+    "id": "coll-copenhagen",
+    "name": "Ny Carlsberg Glyptotek",
+    "type": "collection",
+    "category": "museum",
+    "description": "Notable Etruscan collection including sarcophagi, urns, and bronzes. The Etruscan gallery is one of the finest outside Italy.",
+    "location": {
+      "lat": 55.6726,
+      "lng": 12.5724,
+      "modern_name": "Copenhagen, Denmark"
+    },
+    "source_url": "https://www.glyptoteket.com/"
+  },
+  {
+    "id": "met-241860",
+    "name": "Chariot (Monteleone Chariot)",
+    "type": "artifact",
+    "category": "chariot",
+    "period": "Archaic",
+    "date_range": "ca. 530 BCE",
+    "date_begin": -540,
+    "date_end": -520,
+    "medium": "Bronze, ivory",
+    "institution": "The Metropolitan Museum of Art",
+    "provenance": "Monteleone di Spoleto, Umbria",
+    "description": "Etruscan bronze chariot with three embossed panels depicting scenes from the life of Achilles. One of the finest surviving examples of Etruscan bronze work. Found in a tomb in 1902.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/MET_Monteleone_chariot.jpg/400px-MET_Monteleone_chariot.jpg",
+    "source_url": "https://www.metmuseum.org/art/collection/search/248892",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 42.6819,
+      "lng": 12.9494,
+      "modern_name": "Monteleone di Spoleto",
+      "ancient_name": ""
+    }
+  },
+  {
+    "id": "art-sarcophagus-spouses",
+    "name": "Sarcophagus of the Spouses",
+    "type": "artifact",
+    "category": "sarcophagus",
+    "period": "Archaic",
+    "date_range": "ca. 520\u2013510 BCE",
+    "date_begin": -520,
+    "date_end": -510,
+    "medium": "Painted terracotta",
+    "institution": "Museo Nazionale Etrusco di Villa Giulia, Rome",
+    "provenance": "Cerveteri (Banditaccia necropolis)",
+    "description": "Life-size terracotta sarcophagus depicting a married couple reclining at a banquet. The most iconic work of Etruscan art, showing the relatively equal status of women in Etruscan society.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Sarcofago_degli_Sposi.jpg/500px-Sarcofago_degli_Sposi.jpg",
+    "source_url": "https://www.museoetru.it/",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 42.0005,
+      "lng": 12.0986,
+      "modern_name": "Cerveteri",
+      "ancient_name": "Caere"
+    }
+  },
+  {
+    "id": "art-apollo-veii",
+    "name": "Apollo of Veii",
+    "type": "artifact",
+    "category": "statue",
+    "period": "Archaic",
+    "date_range": "ca. 510\u2013500 BCE",
+    "date_begin": -510,
+    "date_end": -500,
+    "medium": "Painted terracotta",
+    "institution": "Museo Nazionale Etrusco di Villa Giulia, Rome",
+    "provenance": "Veii, Portonaccio temple",
+    "description": "Near life-size painted terracotta statue of Apollo, attributed to the master Vulca of Veii \u2014 the only Etruscan artist known by name. Stood on the roof ridge of the Portonaccio temple.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Aplu_Veio_01.JPG/440px-Aplu_Veio_01.JPG",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 42.0214,
+      "lng": 12.4003,
+      "modern_name": "Isola Farnese, Rome",
+      "ancient_name": "Veii"
+    }
+  },
+  {
+    "id": "art-chimera-arezzo",
+    "name": "Chimera of Arezzo",
+    "type": "artifact",
+    "category": "bronze sculpture",
+    "period": "Classical",
+    "date_range": "ca. 400 BCE",
+    "date_begin": -400,
+    "date_end": -380,
+    "medium": "Bronze",
+    "institution": "Museo Archeologico Nazionale di Firenze",
+    "provenance": "Arezzo, Tuscany",
+    "description": "One of the finest surviving Etruscan large bronzes. Depicts the fire-breathing Chimera wounded by Bellerophon. The Etruscan inscription 'TINSCVIL' (gift to Tinia/Jupiter) is on the right foreleg.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chimera_d%27arezzo%2C_fi%2C_04.JPG/500px-Chimera_d%27arezzo%2C_fi%2C_04.JPG",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 43.4633,
+      "lng": 11.8817,
+      "modern_name": "Arezzo",
+      "ancient_name": "Aritim"
+    }
+  },
+  {
+    "id": "art-arringatore",
+    "name": "L'Arringatore (The Orator)",
+    "type": "artifact",
+    "category": "bronze sculpture",
+    "period": "Hellenistic",
+    "date_range": "ca. 100 BCE",
+    "date_begin": -110,
+    "date_end": -90,
+    "medium": "Bronze",
+    "institution": "Museo Archeologico Nazionale di Firenze",
+    "provenance": "Lake Trasimeno, Umbria",
+    "description": "Full-length bronze portrait of Aule Meteli, an Etruscan man in Roman toga making an oratorical gesture. Bilingual Etruscan inscription. Embodies the moment of Etruscan cultural absorption into Rome.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Arringatore%2C_fi%2C_01.JPG/300px-Arringatore%2C_fi%2C_01.JPG",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 43.1167,
+      "lng": 12.1167,
+      "modern_name": "Lake Trasimeno",
+      "ancient_name": ""
+    }
+  },
+  {
+    "id": "art-mars-todi",
+    "name": "Mars of Todi",
+    "type": "artifact",
+    "category": "bronze sculpture",
+    "period": "Classical",
+    "date_range": "ca. 400 BCE",
+    "date_begin": -400,
+    "date_end": -380,
+    "medium": "Bronze",
+    "institution": "Museo Gregoriano Etrusco, Vatican",
+    "provenance": "Todi, Umbria",
+    "description": "Large bronze statue of a warrior making a libation, with Umbrian inscription. One of the few surviving large-scale Etruscan bronzes. Shows Greek Classical influence filtered through Etruscan style.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Marte_di_Todi_01.JPG/300px-Marte_di_Todi_01.JPG",
+    "culture": "Etruscan/Umbrian",
+    "location": {
+      "lat": 42.7808,
+      "lng": 12.4064,
+      "modern_name": "Todi, Umbria",
+      "ancient_name": "Tular"
+    }
+  },
+  {
+    "id": "art-pyrgi-tablets",
+    "name": "Pyrgi Tablets",
+    "type": "artifact",
+    "category": "inscription",
+    "period": "Archaic",
+    "date_range": "ca. 500 BCE",
+    "date_begin": -510,
+    "date_end": -490,
+    "medium": "Gold sheet",
+    "institution": "Museo Nazionale Etrusco di Villa Giulia, Rome",
+    "provenance": "Pyrgi (Santa Severa), Lazio",
+    "description": "Three gold tablets \u2014 two in Etruscan, one in Phoenician \u2014 recording a dedication by Thefarie Velianas, ruler of Caere. The longest known bilingual Etruscan text and key to Etruscan language studies.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Pyrgi_tablets.jpg/500px-Pyrgi_tablets.jpg",
+    "culture": "Etruscan/Phoenician",
+    "location": {
+      "lat": 42.0147,
+      "lng": 11.9556,
+      "modern_name": "Santa Severa",
+      "ancient_name": "Pyrgi"
+    }
+  },
+  {
+    "id": "art-shadow-evening",
+    "name": "Ombra della Sera (Shadow of the Evening)",
+    "type": "artifact",
+    "category": "bronze figurine",
+    "period": "Archaic\u2013Classical",
+    "date_range": "3rd century BCE",
+    "date_begin": -300,
+    "date_end": -200,
+    "medium": "Bronze",
+    "institution": "Museo Etrusco Guarnacci, Volterra",
+    "provenance": "Volterra, Tuscany",
+    "description": "Elongated bronze votive figure of a nude boy, remarkably reminiscent of Giacometti's modern sculptures. Named by Gabriele D'Annunzio for its resemblance to a long evening shadow.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Shadow_of_the_Evening.jpg/300px-Shadow_of_the_Evening.jpg",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 43.4016,
+      "lng": 10.8625,
+      "modern_name": "Volterra",
+      "ancient_name": "Velathri"
+    }
+  },
+  {
+    "id": "art-tabula-cortonensis",
+    "name": "Tabula Cortonensis",
+    "type": "artifact",
+    "category": "inscription",
+    "period": "Hellenistic",
+    "date_range": "3rd\u20132nd century BCE",
+    "date_begin": -250,
+    "date_end": -150,
+    "medium": "Bronze tablet",
+    "institution": "MAEC, Cortona",
+    "provenance": "Cortona, Tuscany",
+    "description": "Bronze tablet with 40 lines of Etruscan text \u2014 one of the longest surviving Etruscan inscriptions. Appears to record a land transaction. Discovered in 1992 by a farmer.",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 43.2753,
+      "lng": 11.9856,
+      "modern_name": "Cortona",
+      "ancient_name": "Curtun"
+    }
+  },
+  {
+    "id": "art-cippus-perusinus",
+    "name": "Cippus Perusinus",
+    "type": "artifact",
+    "category": "inscription",
+    "period": "Hellenistic",
+    "date_range": "3rd\u20132nd century BCE",
+    "date_begin": -250,
+    "date_end": -150,
+    "medium": "Travertine stone",
+    "institution": "Museo Archeologico Nazionale dell'Umbria, Perugia",
+    "provenance": "Perugia, Umbria",
+    "description": "Stone boundary marker with 46 words of Etruscan text on two sides. Records a property agreement between two Etruscan families. One of the most important Etruscan legal texts.",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 43.1107,
+      "lng": 12.3908,
+      "modern_name": "Perugia",
+      "ancient_name": "Perusia"
+    }
+  },
+  {
+    "id": "art-winged-horses",
+    "name": "Winged Horses of Tarquinia",
+    "type": "artifact",
+    "category": "architectural decoration",
+    "period": "Hellenistic",
+    "date_range": "ca. 300 BCE",
+    "date_begin": -320,
+    "date_end": -280,
+    "medium": "Terracotta",
+    "institution": "Museo Nazionale Tarquiniese",
+    "provenance": "Ara della Regina temple, Tarquinia",
+    "description": "Pair of winged horses from the pediment of the Ara della Regina temple. Among the finest surviving Etruscan terracotta sculptures, showing exceptional dynamism and grace.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Tarquinia_CavaliAlati.jpg/500px-Tarquinia_CavaliAlati.jpg",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 42.2494,
+      "lng": 11.7556,
+      "modern_name": "Tarquinia",
+      "ancient_name": "Tarchna"
+    }
+  },
+  {
+    "id": "art-she-wolf",
+    "name": "Capitoline Wolf",
+    "type": "artifact",
+    "category": "bronze sculpture",
+    "period": "Disputed (Medieval or Etruscan)",
+    "date_range": "5th century BCE or 11th\u201312th century CE",
+    "date_begin": -480,
+    "date_end": 1200,
+    "medium": "Bronze",
+    "institution": "Musei Capitolini, Rome",
+    "provenance": "Rome",
+    "description": "The iconic bronze she-wolf nursing Romulus and Remus. Traditionally attributed to 5th century BCE Etruscan craftsmen, but radiocarbon dating of the casting core (2006) suggests medieval origin. The twins are Renaissance additions by Antonio Pollaiuolo.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/She-wolf_suckles_Romulus_and_Remus.jpg/500px-She-wolf_suckles_Romulus_and_Remus.jpg",
+    "culture": "Etruscan (disputed)",
+    "location": {
+      "lat": 41.893,
+      "lng": 12.4827,
+      "modern_name": "Rome",
+      "ancient_name": "Roma"
+    }
+  },
+  {
+    "id": "art-ficoroni-cista",
+    "name": "Ficoroni Cista",
+    "type": "artifact",
+    "category": "cista",
+    "period": "Classical\u2013Hellenistic",
+    "date_range": "ca. 330\u2013320 BCE",
+    "date_begin": -330,
+    "date_end": -320,
+    "medium": "Bronze",
+    "institution": "Museo Nazionale Etrusco di Villa Giulia, Rome",
+    "provenance": "Palestrina (Praeneste), Lazio",
+    "description": "Cylindrical bronze container with elaborate engraved scenes of the Argonauts. Latin inscription names the artist Novios Plautios and the dedicator Dindia Macolnia. Masterpiece of Praenestine metalwork.",
+    "culture": "Latin/Etruscan",
+    "location": {
+      "lat": 41.8394,
+      "lng": 12.8917,
+      "modern_name": "Palestrina",
+      "ancient_name": "Praeneste"
+    }
+  },
+  {
+    "id": "art-francois-tomb",
+    "name": "Fran\u00e7ois Tomb Paintings",
+    "type": "artifact",
+    "category": "wall painting",
+    "period": "Classical",
+    "date_range": "ca. 340\u2013320 BCE",
+    "date_begin": -340,
+    "date_end": -320,
+    "medium": "Fresco on tufa",
+    "institution": "Museo Torlonia, Rome (private)",
+    "provenance": "Vulci",
+    "description": "The most elaborate Etruscan tomb painting cycle. Depicts both mythological scenes and historical battles between Etruscans and Romans. Unique evidence for Etruscan historical self-narrative.",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 42.4186,
+      "lng": 11.6333,
+      "modern_name": "Montalto di Castro",
+      "ancient_name": "Velch/Vulci"
+    }
+  },
+  {
+    "id": "art-regolini-galassi",
+    "name": "Regolini-Galassi Tomb Gold Fibula",
+    "type": "artifact",
+    "category": "gold jewelry",
+    "period": "Orientalizing",
+    "date_range": "ca. 650 BCE",
+    "date_begin": -660,
+    "date_end": -640,
+    "medium": "Gold with granulation",
+    "institution": "Museo Gregoriano Etrusco, Vatican",
+    "provenance": "Cerveteri (Sorbo necropolis)",
+    "description": "Large gold fibula (brooch) with extraordinarily fine granulation work \u2014 rows of tiny lions, geometric patterns. From the richest 7th-century tomb found in Etruria, showing Near Eastern artistic influence.",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 42.0005,
+      "lng": 12.0986,
+      "modern_name": "Cerveteri",
+      "ancient_name": "Caere"
+    }
+  },
+  {
+    "id": "art-tomb-leopards",
+    "name": "Tomb of the Leopards Frescoes",
+    "type": "artifact",
+    "category": "wall painting",
+    "period": "Archaic",
+    "date_range": "ca. 480\u2013470 BCE",
+    "date_begin": -480,
+    "date_end": -470,
+    "medium": "Fresco on tufa",
+    "institution": "In situ (Monterozzi necropolis, Tarquinia)",
+    "provenance": "Tarquinia",
+    "description": "Vivid banqueting scene with musicians, dancers, and reclining diners. Two spotted leopards face each other on the rear wall. The most visited painted tomb in Tarquinia and an icon of Etruscan art.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Tarquinia_Tomb_of_the_Leopards.jpg/500px-Tarquinia_Tomb_of_the_Leopards.jpg",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 42.2422,
+      "lng": 11.7614,
+      "modern_name": "Tarquinia",
+      "ancient_name": "Tarchna"
+    }
+  },
+  {
+    "id": "art-tomb-augurs",
+    "name": "Tomb of the Augurs Frescoes",
+    "type": "artifact",
+    "category": "wall painting",
+    "period": "Archaic",
+    "date_range": "ca. 530\u2013520 BCE",
+    "date_begin": -530,
+    "date_end": -520,
+    "medium": "Fresco on tufa",
+    "institution": "In situ (Monterozzi necropolis, Tarquinia)",
+    "provenance": "Tarquinia",
+    "description": "Painted tomb depicting funerary games including wrestlers and the Phersu \u2014 a masked figure with a dog on a leash, possibly origin of the Latin word 'persona' (mask/person).",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 42.2422,
+      "lng": 11.7614,
+      "modern_name": "Tarquinia",
+      "ancient_name": "Tarchna"
+    }
+  },
+  {
+    "id": "art-sarcophagus-spouses-louvre",
+    "name": "Sarcophagus of the Spouses (Louvre)",
+    "type": "artifact",
+    "category": "sarcophagus",
+    "period": "Archaic",
+    "date_range": "ca. 520\u2013510 BCE",
+    "date_begin": -520,
+    "date_end": -510,
+    "medium": "Painted terracotta",
+    "institution": "Mus\u00e9e du Louvre, Paris",
+    "provenance": "Cerveteri",
+    "description": "Second version of the Sarcophagus of the Spouses, companion to the Villa Giulia example. Shows Etruscan couple in intimate banqueting pose. Both versions found in Cerveteri's Banditaccia necropolis.",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 42.0005,
+      "lng": 12.0986,
+      "modern_name": "Cerveteri",
+      "ancient_name": "Caere"
+    }
+  },
+  {
+    "id": "art-liber-linteus",
+    "name": "Liber Linteus (Zagreb Mummy Wrappings)",
+    "type": "artifact",
+    "category": "text/manuscript",
+    "period": "Hellenistic",
+    "date_range": "3rd century BCE",
+    "date_begin": -250,
+    "date_end": -200,
+    "medium": "Linen (ink on cloth)",
+    "institution": "Archaeological Museum, Zagreb, Croatia",
+    "provenance": "Unknown (reused as mummy wrappings in Egypt)",
+    "description": "The longest surviving Etruscan text \u2014 a linen book reused to wrap an Egyptian mummy. Contains a ritual calendar with dates and instructions for religious ceremonies. Over 1,200 words of Etruscan.",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 45.8131,
+      "lng": 15.9775,
+      "modern_name": "Zagreb, Croatia",
+      "ancient_name": ""
+    }
+  },
+  {
+    "id": "art-cowboy-murlo",
+    "name": "The 'Cowboy' of Murlo",
+    "type": "artifact",
+    "category": "architectural decoration",
+    "period": "Orientalizing\u2013Archaic",
+    "date_range": "ca. 600 BCE",
+    "date_begin": -620,
+    "date_end": -580,
+    "medium": "Terracotta",
+    "institution": "Antiquarium di Poggio Civitate, Murlo",
+    "provenance": "Poggio Civitate (Murlo), Tuscany",
+    "description": "Seated terracotta figure wearing a distinctive wide-brimmed hat, from the roof of the monumental building at Poggio Civitate. One of the most recognizable images from Etruscan archaeology.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/PVMurlo.jpg/400px-PVMurlo.jpg",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 43.1556,
+      "lng": 11.3994,
+      "modern_name": "Murlo, Tuscany",
+      "ancient_name": "Poggio Civitate"
+    }
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "id": "coll-villa-giulia",
+    "name": "Museo Nazionale Etrusco di Villa Giulia",
+    "type": "collection",
+    "category": "national museum",
+    "description": "The world's most important museum dedicated exclusively to pre-Roman Italic and Etruscan civilization. Houses the Sarcophagus of the Spouses, the Pyrgi Tablets, and the Apollo of Veii.",
+    "location": { "lat": 41.9167, "lng": 12.4764, "modern_name": "Rome, Italy" },
+    "holdings_estimate": "50,000+ objects",
+    "notable_objects": ["Sarcophagus of the Spouses", "Apollo of Veii", "Pyrgi Tablets", "Ficoroni Cista"],
+    "source_url": "https://www.museoetru.it/",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Sarcofago_degli_Sposi.jpg/500px-Sarcofago_degli_Sposi.jpg"
+  },
+  {
+    "id": "coll-met",
+    "name": "The Metropolitan Museum of Art",
+    "type": "collection",
+    "category": "encyclopedic museum",
+    "description": "One of the largest collections of Etruscan art outside Italy. Strong in bronzes, terracottas, gold jewelry, and pottery. The Etruscan chariot from Monteleone is a centerpiece.",
+    "location": { "lat": 40.7794, "lng": -73.9632, "modern_name": "New York, USA" },
+    "holdings_estimate": "130+ Etruscan objects",
+    "notable_objects": ["Monteleone Chariot", "Bronze mirror collection", "Terracotta warriors"],
+    "source_url": "https://www.metmuseum.org/",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/MET_Monteleone_chariot.jpg/400px-MET_Monteleone_chariot.jpg"
+  },
+  {
+    "id": "coll-british-museum",
+    "name": "The British Museum",
+    "type": "collection",
+    "category": "encyclopedic museum",
+    "description": "Significant Etruscan collection including bronzes, pottery, jewelry, and terracottas. The Castellani collection of Etruscan jewelry is particularly notable.",
+    "location": { "lat": 51.5194, "lng": -0.1270, "modern_name": "London, UK" },
+    "holdings_estimate": "500+ Etruscan objects",
+    "notable_objects": ["Castellani jewelry collection", "Barberini gold fibula", "Etruscan bronze mirrors"],
+    "source_url": "https://www.britishmuseum.org/",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/FibulaPrenestina.jpg/400px-FibulaPrenestina.jpg"
+  },
+  {
+    "id": "coll-louvre",
+    "name": "Musée du Louvre",
+    "type": "collection",
+    "category": "encyclopedic museum",
+    "description": "Major Etruscan collection in the Department of Greek, Etruscan, and Roman Antiquities. The Campana collection forms the core, including outstanding bucchero pottery and painted terracottas.",
+    "location": { "lat": 48.8606, "lng": 2.3376, "modern_name": "Paris, France" },
+    "holdings_estimate": "300+ Etruscan objects",
+    "notable_objects": ["Sarcophagus of the Spouses (second example)", "Campana plaques", "Bucchero collection"],
+    "source_url": "https://www.louvre.fr/"
+  },
+  {
+    "id": "coll-vatican",
+    "name": "Museo Gregoriano Etrusco (Vatican Museums)",
+    "type": "collection",
+    "category": "museum",
+    "description": "Founded by Pope Gregory XVI in 1837 to house Etruscan antiquities from papal excavations. Includes the remarkable Regolini-Galassi tomb contents from Cerveteri.",
+    "location": { "lat": 41.9065, "lng": 12.4536, "modern_name": "Vatican City" },
+    "holdings_estimate": "500+ Etruscan objects",
+    "notable_objects": ["Regolini-Galassi tomb group", "Mars of Todi bronze", "Ficoroni Cista"],
+    "source_url": "https://www.museivaticani.va/"
+  },
+  {
+    "id": "coll-penn",
+    "name": "Penn Museum (University of Pennsylvania)",
+    "type": "collection",
+    "category": "university museum",
+    "description": "Important Etruscan collection from early excavations at Narce, Vulci, and other sites. Strong research program in Etruscan archaeology continuing since the 19th century.",
+    "location": { "lat": 39.9492, "lng": -75.1914, "modern_name": "Philadelphia, USA" },
+    "holdings_estimate": "200+ Etruscan objects",
+    "source_url": "https://www.penn.museum/"
+  },
+  {
+    "id": "coll-florence",
+    "name": "Museo Archeologico Nazionale di Firenze",
+    "type": "collection",
+    "category": "national museum",
+    "description": "One of Italy's most important archaeological museums. Houses the Chimera of Arezzo, the Arringatore (Orator) bronze, the François Vase (Greek, found in an Etruscan tomb), and extensive Etruscan collections.",
+    "location": { "lat": 43.7762, "lng": 11.2628, "modern_name": "Florence, Italy" },
+    "holdings_estimate": "5,000+ Etruscan objects",
+    "notable_objects": ["Chimera of Arezzo", "Arringatore (Orator)", "François Vase", "Mater Matuta from Chianciano"],
+    "source_url": "https://www.museoarcheologiconazionaledifirenze.it/",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chimera_d%27arezzo%2C_fi%2C_04.JPG/500px-Chimera_d%27arezzo%2C_fi%2C_04.JPG"
+  },
+  {
+    "id": "coll-guarnacci",
+    "name": "Museo Etrusco Guarnacci",
+    "type": "collection",
+    "category": "civic museum",
+    "description": "One of the oldest public museums in Europe (1761). Houses over 600 Etruscan alabaster funerary urns from Volterra, plus the famous 'Shadow of the Evening' elongated bronze figure.",
+    "location": { "lat": 43.4016, "lng": 10.8619, "modern_name": "Volterra, Italy" },
+    "holdings_estimate": "600+ funerary urns",
+    "notable_objects": ["Ombra della Sera (Shadow of the Evening)", "Married Couple urn lid", "600+ alabaster urns"],
+    "source_url": "https://www.museoguarnacci.it/",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Shadow_of_the_Evening.jpg/300px-Shadow_of_the_Evening.jpg"
+  },
+  {
+    "id": "coll-maec-cortona",
+    "name": "MAEC - Museo dell'Accademia Etrusca e della Città di Cortona",
+    "type": "collection",
+    "category": "academy museum",
+    "description": "Houses the Tabula Cortonensis — a major Etruscan bronze inscription. Also contains the famous Cortona chandelier (lampadario) and material from local Etruscan tombs.",
+    "location": { "lat": 43.2753, "lng": 11.9856, "modern_name": "Cortona, Italy" },
+    "notable_objects": ["Tabula Cortonensis", "Etruscan lampadario (chandelier)", "Local tomb finds"],
+    "source_url": "https://cortonamaec.org/"
+  },
+  {
+    "id": "coll-tarquinia",
+    "name": "Museo Nazionale Tarquiniese",
+    "type": "collection",
+    "category": "national museum",
+    "description": "Housed in the Gothic-Renaissance Palazzo Vitelleschi. Contains finds from Tarquinia's painted tombs and necropoleis, including the famous terracotta Winged Horses.",
+    "location": { "lat": 42.2508, "lng": 11.7558, "modern_name": "Tarquinia, Italy" },
+    "notable_objects": ["Winged Horses terracotta", "Tomb paintings (detached frescoes)", "Sarcophagi"],
+    "source_url": "https://www.museotarquiniese.it/",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Tarquinia_CavaliAlati.jpg/500px-Tarquinia_CavaliAlati.jpg"
+  },
+  {
+    "id": "coll-berlin",
+    "name": "Antikensammlung Berlin",
+    "type": "collection",
+    "category": "museum",
+    "description": "Important German collection of Etruscan art in the Altes Museum. Includes significant bronzes and pottery from 19th-century collecting.",
+    "location": { "lat": 52.5195, "lng": 13.3986, "modern_name": "Berlin, Germany" },
+    "source_url": "https://www.smb.museum/en/museums-institutions/antikensammlung/"
+  },
+  {
+    "id": "coll-copenhagen",
+    "name": "Ny Carlsberg Glyptotek",
+    "type": "collection",
+    "category": "museum",
+    "description": "Notable Etruscan collection including sarcophagi, urns, and bronzes. The Etruscan gallery is one of the finest outside Italy.",
+    "location": { "lat": 55.6726, "lng": 12.5724, "modern_name": "Copenhagen, Denmark" },
+    "source_url": "https://www.glyptoteket.com/"
+  }
+]
