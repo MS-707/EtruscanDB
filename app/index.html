@@ -556,7 +556,7 @@
 
         // === Data Loading ===
         function loadData() {
-            fetch('data/etruscan_unified.json')
+            fetch('data/etruscan_unified.json?v=100')
                 .then(function(resp) { return resp.json(); })
                 .then(function(data) {
                     allRecords = data;
