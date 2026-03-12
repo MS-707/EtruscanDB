@@ -1855,6 +1855,226 @@
       "modern_name": "Massa Marittima, Tuscany",
       "ancient_name": ""
     },
-    "image_url": ""
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/MassaMarittimaLagoDellAccesa14.jpg/500px-MassaMarittimaLagoDellAccesa14.jpg"
+  },
+  {
+    "id": "site-saturnia",
+    "name": "Saturnia (Aurinia)",
+    "type": "site",
+    "category": "settlement",
+    "period": "Archaic\u2013Roman",
+    "date_range": "700\u2013100 BCE",
+    "date_begin": -700,
+    "date_end": -100,
+    "description": "Ancient Etruscan settlement in the Maremma, later a Roman colony. Known for thermal springs used since Etruscan times. The Porta Romana and sections of Etruscan walls survive.",
+    "location": {
+      "lat": 42.6636,
+      "lng": 11.5042,
+      "modern_name": "Saturnia, Tuscany",
+      "ancient_name": "Aurinia"
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Byways_in_southern_Tuscany_%28IA_bywaysinsouthern00hook%29.pdf/page1-500px-Byways_in_southern_Tuscany_%28IA_bywaysinsouthern00hook%29.pdf.jpg"
+  },
+  {
+    "id": "site-falerii",
+    "name": "Falerii Veteres (Civita Castellana)",
+    "type": "site",
+    "category": "city",
+    "period": "Archaic\u2013Hellenistic",
+    "date_range": "700\u2013241 BCE",
+    "date_begin": -700,
+    "date_end": -241,
+    "description": "Capital of the Faliscan people, closely allied with the Etruscans and sharing much of their culture. The Temple of Juno Curitis produced remarkable terracotta decorations. Destroyed by Rome in 241 BCE.",
+    "location": {
+      "lat": 42.2928,
+      "lng": 12.4103,
+      "modern_name": "Civita Castellana, Lazio",
+      "ancient_name": "Falerii Veteres"
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/The_cities_and_cemeteries_of_Etruria_%28IA_citiescemeteries01denniala%29.pdf/page1-500px-The_cities_and_cemeteries_of_Etruria_%28IA_citiescemeteries01denniala%29.pdf.jpg"
+  },
+  {
+    "id": "site-pontecagnano",
+    "name": "Pontecagnano Faiano",
+    "type": "site",
+    "category": "settlement/necropolis",
+    "period": "Villanovan\u2013Hellenistic",
+    "date_range": "900\u2013300 BCE",
+    "date_begin": -900,
+    "date_end": -300,
+    "description": "Southernmost Etruscan settlement in Campania, with extensive Villanovan and Etruscan necropoleis. Over 9,000 tombs excavated \u2014 crucial evidence for Etruscan expansion into southern Italy.",
+    "location": {
+      "lat": 40.6333,
+      "lng": 14.8667,
+      "modern_name": "Pontecagnano, Campania",
+      "ancient_name": "Amina?"
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Museo_archeologico_nazionale_Pontecagnano.jpg/500px-Museo_archeologico_nazionale_Pontecagnano.jpg"
+  },
+  {
+    "id": "art-bronze-lamp-cortona",
+    "name": "Etruscan Bronze Chandelier (Lampadario)",
+    "type": "artifact",
+    "category": "bronze vessel",
+    "period": "Classical",
+    "date_range": "ca. 450\u2013425 BCE",
+    "date_begin": -450,
+    "date_end": -425,
+    "medium": "Bronze",
+    "institution": "MAEC, Cortona",
+    "provenance": "Cortona, Tuscany",
+    "description": "Massive bronze oil lamp (diameter 58cm) decorated with alternating gorgon heads, satyrs, sirens, and dolphins in high relief. Suspended by chains from the ceiling of an aristocratic dining room. A masterpiece of Etruscan metalwork.",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 43.2753,
+      "lng": 11.9856,
+      "modern_name": "Cortona",
+      "ancient_name": "Curtun"
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/A_Descriptive_catalogue_of_the_collection_of_pictures%2C_sculpture%2C_bronzes%2C_etc._at_Hendersyde_Park%2C_the_seat_of_John_Waldie%2C_Esq_%28IA_descriptivecatal00wald%29.pdf/page1-500px-A_Descriptive_catalogue_of_the_collection_of_pictures%2C_sculpture%2C_bronzes%2C_etc._at_Hendersyde_Park%2C_the_seat_of_John_Waldie%2C_Esq_%28IA_descriptivecatal00wald%29.pdf.jpg"
+  },
+  {
+    "id": "art-tomb-reliefs",
+    "name": "Tomb of the Reliefs",
+    "type": "artifact",
+    "category": "decorated tomb",
+    "period": "Hellenistic",
+    "date_range": "ca. 320\u2013280 BCE",
+    "date_begin": -320,
+    "date_end": -280,
+    "medium": "Painted stucco on tufa",
+    "institution": "In situ (Banditaccia necropolis, Cerveteri)",
+    "provenance": "Cerveteri",
+    "description": "Underground chamber tomb of the Matuna family with walls covered in painted stucco reliefs of household objects \u2014 weapons, tools, pets, kitchen utensils. A 3D catalog of Etruscan daily life frozen in plaster.",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 42.0042,
+      "lng": 12.0847,
+      "modern_name": "Cerveteri",
+      "ancient_name": "Caere"
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tomba_dei_Rilievi_%28Banditaccia%29.jpg/500px-Tomba_dei_Rilievi_%28Banditaccia%29.jpg"
+  },
+  {
+    "id": "art-biconical-urn",
+    "name": "Villanovan Biconical Urn",
+    "type": "artifact",
+    "category": "funerary urn",
+    "period": "Villanovan",
+    "date_range": "ca. 900\u2013800 BCE",
+    "date_begin": -900,
+    "date_end": -800,
+    "medium": "Impasto ceramic with bronze helmet lid",
+    "institution": "Museo Archeologico Nazionale di Firenze",
+    "provenance": "Tarquinia",
+    "description": "Biconical cremation urn with a bronze crested helmet as lid \u2014 the signature form of Villanovan (proto-Etruscan) burial. The helmet lid symbolizes the warrior status of the deceased. These urns mark the beginning of Etruscan civilization.",
+    "culture": "Villanovan/Proto-Etruscan",
+    "location": {
+      "lat": 42.2494,
+      "lng": 11.7556,
+      "modern_name": "Tarquinia",
+      "ancient_name": "Tarchna"
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Cinerary_urn_in_the_shape_of_a_canopus%2C_Chiusi_%28Italy%29%2C_Red_impasto%2C_600-550_BC_8734.jpg/500px-Cinerary_urn_in_the_shape_of_a_canopus%2C_Chiusi_%28Italy%29%2C_Red_impasto%2C_600-550_BC_8734.jpg"
+  },
+  {
+    "id": "art-apollo-portonaccio",
+    "name": "Hercules and Apollo Group (Portonaccio)",
+    "type": "artifact",
+    "category": "terracotta sculpture",
+    "period": "Archaic",
+    "date_range": "ca. 510\u2013500 BCE",
+    "date_begin": -510,
+    "date_end": -500,
+    "medium": "Painted terracotta",
+    "institution": "Museo Nazionale Etrusco di Villa Giulia, Rome",
+    "provenance": "Veii, Portonaccio temple",
+    "description": "Group of life-size terracotta figures from the roof of the Portonaccio temple, including Apollo, Hercules, Hermes, and a goddess with a child. Attributed to the workshop of Vulca of Veii. Among the finest Archaic terracottas anywhere in the Mediterranean.",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 42.0214,
+      "lng": 12.4003,
+      "modern_name": "Isola Farnese, Rome",
+      "ancient_name": "Veii"
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/A_description_of_the_collection_of_ancient_terracottas_in_the_British_Museum%3B_with_engravings_%28IA_descriptionofcol00brit%29.pdf/page1-500px-A_description_of_the_collection_of_ancient_terracottas_in_the_British_Museum%3B_with_engravings_%28IA_descriptionofcol00brit%29.pdf.jpg"
+  },
+  {
+    "id": "art-gold-book",
+    "name": "Etruscan Gold Book",
+    "type": "artifact",
+    "category": "gold artifact",
+    "period": "Archaic",
+    "date_range": "ca. 600 BCE",
+    "date_begin": -620,
+    "date_end": -580,
+    "medium": "Gold sheets",
+    "institution": "National Museum of History, Sofia, Bulgaria",
+    "provenance": "Struma River, Bulgaria (found 1943)",
+    "description": "Six gold sheets bound together forming the oldest known multi-page book in the world. Written in Etruscan script with illustrations of a horseman, mermaid, and lyre. Evidence of Etruscan cultural reach into the Balkans.",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 42.6977,
+      "lng": 23.3219,
+      "modern_name": "Sofia, Bulgaria",
+      "ancient_name": ""
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Etruscan_Roman_remains_in_popular_tradition_%28IA_etruscanromanrem00lela%29.pdf/page1-500px-Etruscan_Roman_remains_in_popular_tradition_%28IA_etruscanromanrem00lela%29.pdf.jpg"
+  },
+  {
+    "id": "coll-munich",
+    "name": "Antikensammlungen M\u00fcnchen",
+    "type": "collection",
+    "category": "museum",
+    "description": "Munich's state collections of classical antiquities include significant Etruscan gold jewelry, bronzes, and the Gold Wreath from Vulci. Particularly strong in Etruscan metalwork and jewelry.",
+    "location": {
+      "lat": 48.1474,
+      "lng": 11.5701,
+      "modern_name": "Munich, Germany"
+    },
+    "notable_objects": [
+      "Gold Wreath from Vulci",
+      "Etruscan bronze figurines",
+      "Gold jewelry collection"
+    ],
+    "source_url": "https://www.antike-am-koenigsplatz.mwn.de/",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Staatliche_Antikensammlungen%2C_K%C3%B6nigsplatz%2C_M%C3%BAnich%2C_Alemania%2C_2024-04-02%2C_DD_01.jpg/500px-Staatliche_Antikensammlungen%2C_K%C3%B6nigsplatz%2C_M%C3%BAnich%2C_Alemania%2C_2024-04-02%2C_DD_01.jpg"
+  },
+  {
+    "id": "coll-ferrara",
+    "name": "Museo Archeologico Nazionale di Ferrara",
+    "type": "collection",
+    "category": "national museum",
+    "description": "Houses the extraordinary finds from the Etruscan trading port of Spina, including one of the largest collections of Attic Greek pottery outside Greece \u2014 all found in Etruscan tombs.",
+    "location": {
+      "lat": 44.8381,
+      "lng": 11.6208,
+      "modern_name": "Ferrara, Italy"
+    },
+    "notable_objects": [
+      "Attic red-figure pottery from Spina",
+      "Spina tomb groups",
+      "Gold diadem"
+    ],
+    "source_url": "https://www.archeoferrara.beniculturali.it/",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Costabili_Palace.JPG/500px-Costabili_Palace.JPG"
+  },
+  {
+    "id": "coll-chiusi-museum",
+    "name": "Museo Archeologico Nazionale di Chiusi",
+    "type": "collection",
+    "category": "national museum",
+    "description": "Rich collection of Chiusine Etruscan material including canopic jars, bucchero pottery, funerary urns, and finds from the underground tomb complexes. The labyrinth of Porsenna (underground passages) can be visited.",
+    "location": {
+      "lat": 43.0167,
+      "lng": 11.95,
+      "modern_name": "Chiusi, Italy"
+    },
+    "notable_objects": [
+      "Canopic jars",
+      "Lars Porsenna artifacts",
+      "Underground labyrinth access"
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sarcofago_etrusco_-_Etruscan_Sarcophagus%2C_Museo_Archeologico_di_Chiusi.jpg/500px-Sarcofago_etrusco_-_Etruscan_Sarcophagus%2C_Museo_Archeologico_di_Chiusi.jpg"
   }
 ]
