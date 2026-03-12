@@ -21,7 +21,9 @@
         "author": "Ward-Perkins, J.B.",
         "year": 1961
       }
-    ]
+    ],
+    "date_begin": -1000,
+    "date_end": -264
   },
   {
     "id": "site-cerveteri",
@@ -45,7 +47,9 @@
         "author": "Cristofani, M.",
         "year": 1990
       }
-    ]
+    ],
+    "date_begin": -900,
+    "date_end": -100
   },
   {
     "id": "site-tarquinia",
@@ -69,7 +73,9 @@
         "author": "Steingr\u00e4ber, S.",
         "year": 2006
       }
-    ]
+    ],
+    "date_begin": -1100,
+    "date_end": -300
   },
   {
     "id": "site-vulci",
@@ -93,7 +99,9 @@
         "author": "Moretti Sgubini, A.M.",
         "year": 2001
       }
-    ]
+    ],
+    "date_begin": -900,
+    "date_end": -280
   },
   {
     "id": "site-chiusi",
@@ -117,7 +125,9 @@
         "author": "Rasmussen, T.",
         "year": 1979
       }
-    ]
+    ],
+    "date_begin": -800,
+    "date_end": -200
   },
   {
     "id": "site-volterra",
@@ -141,7 +151,9 @@
         "author": "Fiumi, E.",
         "year": 1961
       }
-    ]
+    ],
+    "date_begin": -800,
+    "date_end": -100
   },
   {
     "id": "site-populonia",
@@ -165,7 +177,9 @@
         "author": "Fedeli, F.",
         "year": 1983
       }
-    ]
+    ],
+    "date_begin": -900,
+    "date_end": -200
   },
   {
     "id": "site-vetulonia",
@@ -188,7 +202,9 @@
         "author": "Camporeale, G.",
         "year": 1985
       }
-    ]
+    ],
+    "date_begin": -900,
+    "date_end": -200
   },
   {
     "id": "site-orvieto",
@@ -212,7 +228,9 @@
         "author": "Bizzarri, C.",
         "year": 2016
       }
-    ]
+    ],
+    "date_begin": -600,
+    "date_end": -264
   },
   {
     "id": "site-perugia",
@@ -236,7 +254,9 @@
         "author": "Rix, H.",
         "year": 1991
       }
-    ]
+    ],
+    "date_begin": -600,
+    "date_end": -40
   },
   {
     "id": "site-cortona",
@@ -259,7 +279,9 @@
         "author": "Agostiniani, L.",
         "year": 2000
       }
-    ]
+    ],
+    "date_begin": -600,
+    "date_end": -200
   },
   {
     "id": "site-marzabotto",
@@ -283,7 +305,9 @@
         "author": "Sassatelli, G.",
         "year": 2008
       }
-    ]
+    ],
+    "date_begin": -500,
+    "date_end": -350
   },
   {
     "id": "site-spina",
@@ -306,7 +330,9 @@
         "author": "Berti, F.",
         "year": 1993
       }
-    ]
+    ],
+    "date_begin": -530,
+    "date_end": -250
   },
   {
     "id": "site-pyrgi",
@@ -330,7 +356,9 @@
         "author": "Pallottino, M.",
         "year": 1964
       }
-    ]
+    ],
+    "date_begin": -510,
+    "date_end": -200
   },
   {
     "id": "site-poggio-civitate",
@@ -354,7 +382,9 @@
         "author": "Phillips, K.",
         "year": 1993
       }
-    ]
+    ],
+    "date_begin": -675,
+    "date_end": -525
   },
   {
     "id": "site-roselle",
@@ -377,7 +407,9 @@
         "author": "Donati, L.",
         "year": 1994
       }
-    ]
+    ],
+    "date_begin": -800,
+    "date_end": -200
   },
   {
     "id": "site-fiesole",
@@ -400,7 +432,9 @@
         "author": "De Marco, M.",
         "year": 1990
       }
-    ]
+    ],
+    "date_begin": -600,
+    "date_end": -100
   },
   {
     "id": "site-arezzo",
@@ -424,7 +458,9 @@
         "author": "Cristofani, M.",
         "year": 1977
       }
-    ]
+    ],
+    "date_begin": -600,
+    "date_end": -100
   },
   {
     "id": "site-bolsena",
@@ -447,7 +483,9 @@
         "author": "Harris, W.V.",
         "year": 1971
       }
-    ]
+    ],
+    "date_begin": -264,
+    "date_end": -100
   },
   {
     "id": "site-norchia",
@@ -469,7 +507,9 @@
         "author": "Colonna di Paolo, E.",
         "year": 1978
       }
-    ]
+    ],
+    "date_begin": -400,
+    "date_end": -200
   },
   {
     "id": "site-banditaccia",
@@ -493,7 +533,9 @@
         "author": "Naso, A.",
         "year": 2005
       }
-    ]
+    ],
+    "date_begin": -900,
+    "date_end": -200
   },
   {
     "id": "site-monterozzi",
@@ -517,7 +559,9 @@
         "author": "Moretti, M.",
         "year": 1974
       }
-    ]
+    ],
+    "date_begin": -900,
+    "date_end": -200
   },
   {
     "id": "coll-villa-giulia",

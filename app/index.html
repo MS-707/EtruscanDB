@@ -37,7 +37,7 @@
         }
         .app {
             display: grid;
-            grid-template-rows: auto 1fr;
+            grid-template-rows: auto 1fr auto;
             grid-template-columns: 340px 1fr;
             height: 100vh;
         }
@@ -83,6 +83,7 @@
             display: flex;
             flex-direction: column;
             overflow: hidden;
+            grid-row: 2 / 4;
         }
         .search-bar {
             padding: 12px 16px;
@@ -274,6 +275,117 @@
         .detail-field-value a { color: var(--accent); text-decoration: none; }
         .detail-field-value a:hover { text-decoration: underline; }
 
+        /* Timeline */
+        .timeline {
+            grid-column: 2;
+            background: var(--bg-secondary);
+            border-top: 1px solid var(--border);
+            padding: 12px 24px 16px;
+            user-select: none;
+        }
+        .timeline-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 8px;
+        }
+        .timeline-label {
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--text-muted);
+        }
+        .timeline-range {
+            font-size: 0.8rem;
+            color: var(--accent);
+            font-weight: 500;
+        }
+        .timeline-track {
+            position: relative;
+            height: 40px;
+            background: var(--bg-tertiary);
+            border-radius: 6px;
+            overflow: hidden;
+            cursor: pointer;
+        }
+        .timeline-bars {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+        }
+        .timeline-bar {
+            position: absolute;
+            height: 4px;
+            border-radius: 2px;
+            opacity: 0.6;
+            transition: opacity 0.15s;
+            cursor: pointer;
+        }
+        .timeline-bar:hover {
+            opacity: 1;
+            height: 6px;
+        }
+        .timeline-bar.site { background: var(--type-site); }
+        .timeline-bar.collection { background: var(--type-collection); }
+        .timeline-bar.artifact { background: var(--type-artifact); }
+        .timeline-bar.active {
+            opacity: 1;
+            height: 6px;
+            box-shadow: 0 0 6px currentColor;
+        }
+        .timeline-window {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            background: rgba(198, 123, 78, 0.08);
+            border-left: 2px solid var(--accent);
+            border-right: 2px solid var(--accent);
+            pointer-events: none;
+            transition: left 0.1s, width 0.1s;
+        }
+        .timeline-ticks {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 4px;
+            padding: 0 2px;
+        }
+        .timeline-tick {
+            font-size: 0.65rem;
+            color: var(--text-muted);
+        }
+        .timeline-controls {
+            display: flex;
+            gap: 8px;
+            align-items: center;
+        }
+        .timeline-btn {
+            padding: 2px 8px;
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border);
+            border-radius: 4px;
+            color: var(--text-secondary);
+            font-size: 0.7rem;
+            font-family: var(--font-body);
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .timeline-btn:hover { border-color: var(--accent-dim); color: var(--text-primary); }
+        .timeline-btn.active { background: var(--accent-glow); border-color: var(--accent); color: var(--accent); }
+
+        /* Period labels on timeline */
+        .timeline-period {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: 0.6rem;
+            color: var(--text-muted);
+            opacity: 0.5;
+            pointer-events: none;
+            white-space: nowrap;
+        }
+
         /* Leaflet overrides */
         .leaflet-container { background: var(--bg-primary) !important; font-family: var(--font-body) !important; }
         .leaflet-popup-content-wrapper {
@@ -296,7 +408,6 @@
             font-size: 0.65rem !important;
         }
         .leaflet-control-attribution a { color: var(--text-muted) !important; }
-
         .popup-title {
             font-family: var(--font-display);
             font-weight: 600;
@@ -308,15 +419,18 @@
         @media (max-width: 768px) {
             .app {
                 grid-template-columns: 1fr;
-                grid-template-rows: auto auto 1fr;
+                grid-template-rows: auto auto 1fr auto;
             }
             .sidebar {
-                max-height: 40vh;
+                max-height: 35vh;
                 border-right: none;
                 border-bottom: 1px solid var(--border);
+                grid-row: auto;
             }
             .detail-panel { width: calc(100% - 32px); }
             .header-stats { display: none; }
+            .timeline { grid-column: 1; }
+            .timeline-period { display: none; }
         }
 
         ::-webkit-scrollbar { width: 6px; }
@@ -359,22 +473,50 @@
                 <div id="detail-content"></div>
             </div>
         </div>
+
+        <div class="timeline" id="timeline">
+            <div class="timeline-header">
+                <div class="timeline-label">Timeline</div>
+                <div class="timeline-controls">
+                    <button class="timeline-btn" id="timeline-reset">Show All</button>
+                    <div class="timeline-range" id="timeline-range">1100 BCE – 200 CE</div>
+                </div>
+            </div>
+            <div class="timeline-track" id="timeline-track">
+                <div class="timeline-bars" id="timeline-bars"></div>
+                <div class="timeline-window" id="timeline-window" style="display:none"></div>
+                <!-- Period labels -->
+                <div class="timeline-period" style="left:2%">Villanovan</div>
+                <div class="timeline-period" style="left:18%">Orientalizing</div>
+                <div class="timeline-period" style="left:33%">Archaic</div>
+                <div class="timeline-period" style="left:52%">Classical</div>
+                <div class="timeline-period" style="left:68%">Hellenistic</div>
+                <div class="timeline-period" style="left:85%">Roman</div>
+            </div>
+            <div class="timeline-ticks" id="timeline-ticks"></div>
+        </div>
     </div>
 
     <script>
+        // === State ===
         let allRecords = [];
         let filteredRecords = [];
         let markerLayer;
         let activeRecord = null;
+        let timelineFilter = null; // { start, end } in years (negative = BCE)
 
-        // Leaflet map with dark tiles
+        // Timeline bounds
+        const TL_MIN = -1100;
+        const TL_MAX = 200;
+        const TL_SPAN = TL_MAX - TL_MIN;
+
+        // === Map ===
         const map = L.map('map', {
             center: [42.5, 12.0],
             zoom: 6,
             zoomControl: true
         });
 
-        // Dark tile layer (CartoDB Dark Matter)
         L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
             attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/">CARTO</a>',
             subdomains: 'abcd',
@@ -383,7 +525,6 @@
 
         markerLayer = L.layerGroup().addTo(map);
 
-        // Color map for marker types
         const typeColors = {
             site: '#6ea87f',
             collection: '#7e8ec6',
@@ -391,10 +532,10 @@
         };
 
         function createCircleMarker(record) {
-            const loc = record.location;
+            var loc = record.location;
             if (!loc || loc.lat == null || loc.lng == null) return null;
 
-            const marker = L.circleMarker([loc.lat, loc.lng], {
+            var marker = L.circleMarker([loc.lat, loc.lng], {
                 radius: 7,
                 fillColor: typeColors[record.type] || '#c67b4e',
                 color: 'rgba(255,255,255,0.8)',
@@ -402,86 +543,94 @@
                 fillOpacity: 0.9
             });
 
-            marker.bindPopup(`
-                <div class="popup-title">${record.name}</div>
-                <div class="popup-meta">${record.type} · ${record.date_range || record.period || ''}</div>
-            `, { className: '' });
+            marker.bindPopup(
+                '<div class="popup-title">' + record.name + '</div>' +
+                '<div class="popup-meta">' + record.type + ' · ' + (record.date_range || record.period || '') + '</div>',
+                { className: '' }
+            );
 
-            marker.on('click', () => selectRecord(record));
+            marker.on('click', function() { selectRecord(record); });
             marker._record = record;
             return marker;
         }
 
-        async function loadData() {
-            try {
-                const resp = await fetch('data/etruscan_unified.json');
-                allRecords = await resp.json();
-            } catch (e) {
-                console.error('Failed to load data:', e);
-                return;
-            }
+        // === Data Loading ===
+        function loadData() {
+            fetch('data/etruscan_unified.json')
+                .then(function(resp) { return resp.json(); })
+                .then(function(data) {
+                    allRecords = data;
 
-            const counts = { site: 0, collection: 0, artifact: 0 };
-            allRecords.forEach(r => counts[r.type] = (counts[r.type] || 0) + 1);
-            document.getElementById('site-count').textContent = counts.site;
-            document.getElementById('collection-count').textContent = counts.collection;
-            document.getElementById('artifact-count').textContent = counts.artifact;
+                    var counts = { site: 0, collection: 0, artifact: 0 };
+                    allRecords.forEach(function(r) { counts[r.type] = (counts[r.type] || 0) + 1; });
+                    document.getElementById('site-count').textContent = counts.site;
+                    document.getElementById('collection-count').textContent = counts.collection;
+                    document.getElementById('artifact-count').textContent = counts.artifact;
 
-            filteredRecords = [...allRecords];
-            renderList();
-            renderMarkers();
+                    filteredRecords = allRecords.slice();
+                    renderList();
+                    renderMarkers();
+                    renderTimeline();
+                    renderTimelineTicks();
+                })
+                .catch(function(e) { console.error('Failed to load data:', e); });
         }
 
+        // === Sidebar List ===
         function renderList() {
-            const container = document.getElementById('record-list');
+            var container = document.getElementById('record-list');
             container.innerHTML = '';
-            document.getElementById('sidebar-count').textContent = `${filteredRecords.length} records`;
+            document.getElementById('sidebar-count').textContent = filteredRecords.length + ' records';
 
-            filteredRecords.forEach(record => {
-                const item = document.createElement('div');
-                item.className = `record-item${activeRecord?.id === record.id ? ' active' : ''}`;
+            filteredRecords.forEach(function(record) {
+                var item = document.createElement('div');
+                item.className = 'record-item' + (activeRecord && activeRecord.id === record.id ? ' active' : '');
 
-                const locationText = record.location?.modern_name || record.location?.ancient_name || '';
-                const periodText = record.date_range || record.period || '';
+                var locationText = (record.location && (record.location.modern_name || record.location.ancient_name)) || '';
+                var periodText = record.date_range || record.period || '';
 
-                item.innerHTML = `
-                    <div class="record-name">${record.name}</div>
-                    <div class="record-meta">
-                        <span class="type-badge ${record.type}">${record.type}</span>
-                        ${periodText ? `<span>${periodText}</span>` : ''}
-                        ${locationText ? `<span>· ${locationText}</span>` : ''}
-                    </div>
-                `;
+                item.innerHTML =
+                    '<div class="record-name">' + record.name + '</div>' +
+                    '<div class="record-meta">' +
+                        '<span class="type-badge ' + record.type + '">' + record.type + '</span>' +
+                        (periodText ? '<span>' + periodText + '</span>' : '') +
+                        (locationText ? '<span>· ' + locationText + '</span>' : '') +
+                    '</div>';
 
-                item.addEventListener('click', () => selectRecord(record));
+                item.addEventListener('click', (function(r) {
+                    return function() { selectRecord(r); };
+                })(record));
                 container.appendChild(item);
             });
         }
 
+        // === Map Markers ===
         function renderMarkers() {
             markerLayer.clearLayers();
-            filteredRecords.forEach(record => {
-                const m = createCircleMarker(record);
+            filteredRecords.forEach(function(record) {
+                var m = createCircleMarker(record);
                 if (m) markerLayer.addLayer(m);
             });
         }
 
+        // === Record Selection ===
         function selectRecord(record) {
             activeRecord = record;
             renderList();
+            highlightTimelineBar(record);
 
-            if (record.location?.lat != null) {
+            if (record.location && record.location.lat != null) {
                 map.flyTo([record.location.lat, record.location.lng], Math.max(map.getZoom(), 8), { duration: 0.8 });
             }
 
-            const panel = document.getElementById('detail-panel');
-            const content = document.getElementById('detail-content');
+            var panel = document.getElementById('detail-panel');
+            var content = document.getElementById('detail-content');
 
-            const imageHtml = record.image_url
-                ? `<img class="detail-image" src="${record.image_url}" alt="${record.name}" onerror="this.outerHTML='<div class=\\'detail-image-placeholder\\'>🏛</div>'">`
-                : `<div class="detail-image-placeholder">${record.type === 'artifact' ? '⚱️' : '🏛'}</div>`;
+            var imageHtml = record.image_url
+                ? '<img class="detail-image" src="' + record.image_url + '" alt="' + record.name + '" onerror="this.outerHTML=\'<div class=detail-image-placeholder>🏛</div>\'">'
+                : '<div class="detail-image-placeholder">' + (record.type === 'artifact' ? '⚱️' : '🏛') + '</div>';
 
-            const fields = [];
+            var fields = [];
             if (record.period) fields.push(['Period', record.period]);
             if (record.date_range) fields.push(['Date', record.date_range]);
             if (record.medium) fields.push(['Medium', record.medium]);
@@ -490,52 +639,50 @@
             if (record.category) fields.push(['Category', record.category]);
             if (record.holdings_estimate) fields.push(['Holdings', record.holdings_estimate]);
             if (record.provenance) fields.push(['Provenance', record.provenance]);
-            if (record.location?.modern_name) fields.push(['Location', record.location.modern_name]);
-            if (record.location?.ancient_name) fields.push(['Ancient Name', record.location.ancient_name]);
-            if (record.source_url) fields.push(['Source', `<a href="${record.source_url}" target="_blank" rel="noopener">View →</a>`]);
+            if (record.location && record.location.modern_name) fields.push(['Location', record.location.modern_name]);
+            if (record.location && record.location.ancient_name) fields.push(['Ancient Name', record.location.ancient_name]);
+            if (record.source_url) fields.push(['Source', '<a href="' + record.source_url + '" target="_blank" rel="noopener">View →</a>']);
 
-            const notableHtml = record.notable_objects
-                ? `<div style="margin-top:12px;padding-top:12px;border-top:1px solid var(--border)">
-                    <div class="detail-field-label" style="margin-bottom:6px">Notable Objects</div>
-                    <div style="font-size:0.8rem;color:var(--text-secondary)">${record.notable_objects.join(' · ')}</div>
-                   </div>`
+            var fieldsHtml = fields.map(function(f) {
+                return '<div class="detail-field-label">' + f[0] + '</div><div class="detail-field-value">' + f[1] + '</div>';
+            }).join('');
+
+            var notableHtml = record.notable_objects
+                ? '<div style="margin-top:12px;padding-top:12px;border-top:1px solid var(--border)">' +
+                  '<div class="detail-field-label" style="margin-bottom:6px">Notable Objects</div>' +
+                  '<div style="font-size:0.8rem;color:var(--text-secondary)">' + record.notable_objects.join(' · ') + '</div></div>'
                 : '';
 
-            content.innerHTML = `
-                ${imageHtml}
-                <div class="detail-body">
-                    <div class="detail-subtitle">
-                        <span class="type-badge ${record.type}">${record.type}</span>
-                        ${record.date_range || record.period || ''}
-                    </div>
-                    <div class="detail-title">${record.name}</div>
-                    <div class="detail-description">${record.description || ''}</div>
-                    <div class="detail-fields">
-                        ${fields.map(([l, v]) => `
-                            <div class="detail-field-label">${l}</div>
-                            <div class="detail-field-value">${v}</div>
-                        `).join('')}
-                    </div>
-                    ${notableHtml}
-                </div>
-            `;
+            content.innerHTML =
+                imageHtml +
+                '<div class="detail-body">' +
+                    '<div class="detail-subtitle">' +
+                        '<span class="type-badge ' + record.type + '">' + record.type + '</span> ' +
+                        (record.date_range || record.period || '') +
+                    '</div>' +
+                    '<div class="detail-title">' + record.name + '</div>' +
+                    '<div class="detail-description">' + (record.description || '') + '</div>' +
+                    '<div class="detail-fields">' + fieldsHtml + '</div>' +
+                    notableHtml +
+                '</div>';
 
             panel.classList.add('visible');
 
-            // Scroll sidebar to active item
-            const activeEl = document.querySelector('.record-item.active');
+            var activeEl = document.querySelector('.record-item.active');
             if (activeEl) activeEl.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
         }
 
-        document.getElementById('detail-close').addEventListener('click', () => {
+        document.getElementById('detail-close').addEventListener('click', function() {
             document.getElementById('detail-panel').classList.remove('visible');
             activeRecord = null;
             renderList();
+            highlightTimelineBar(null);
         });
 
-        document.querySelectorAll('.filter-btn').forEach(btn => {
-            btn.addEventListener('click', () => {
-                document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+        // === Filters ===
+        document.querySelectorAll('.filter-btn').forEach(function(btn) {
+            btn.addEventListener('click', function() {
+                document.querySelectorAll('.filter-btn').forEach(function(b) { b.classList.remove('active'); });
                 btn.classList.add('active');
                 applyFilters();
             });
@@ -544,25 +691,182 @@
         document.getElementById('search').addEventListener('input', applyFilters);
 
         function applyFilters() {
-            const query = document.getElementById('search').value.toLowerCase().trim();
-            const activeFilter = document.querySelector('.filter-btn.active').dataset.filter;
+            var query = document.getElementById('search').value.toLowerCase().trim();
+            var activeFilterEl = document.querySelector('.filter-btn.active');
+            var activeFilterType = activeFilterEl ? activeFilterEl.dataset.filter : 'all';
 
-            filteredRecords = allRecords.filter(r => {
-                const matchesType = activeFilter === 'all' || r.type === activeFilter;
+            filteredRecords = allRecords.filter(function(r) {
+                var matchesType = activeFilterType === 'all' || r.type === activeFilterType;
                 if (!matchesType) return false;
+
+                // Timeline filter
+                if (timelineFilter) {
+                    var db = r.date_begin;
+                    var de = r.date_end;
+                    if (db == null && de == null) return false;
+                    if (db != null && de != null) {
+                        if (de < timelineFilter.start || db > timelineFilter.end) return false;
+                    }
+                }
+
                 if (!query) return true;
-                const searchable = [
+                var searchable = [
                     r.name, r.description, r.category, r.period, r.date_range,
                     r.institution, r.culture, r.medium, r.provenance,
-                    r.location?.modern_name, r.location?.ancient_name
+                    r.location ? r.location.modern_name : '', r.location ? r.location.ancient_name : ''
                 ].filter(Boolean).join(' ').toLowerCase();
-                return searchable.includes(query);
+                return searchable.indexOf(query) !== -1;
             });
 
             renderList();
             renderMarkers();
+            renderTimeline();
         }
 
+        // === Timeline ===
+        function yearToPercent(year) {
+            return ((year - TL_MIN) / TL_SPAN) * 100;
+        }
+
+        function percentToYear(pct) {
+            return Math.round(TL_MIN + (pct / 100) * TL_SPAN);
+        }
+
+        function formatYear(year) {
+            if (year < 0) return Math.abs(year) + ' BCE';
+            if (year === 0) return '1 BCE';
+            return year + ' CE';
+        }
+
+        function renderTimeline() {
+            var barsContainer = document.getElementById('timeline-bars');
+            barsContainer.innerHTML = '';
+
+            // Arrange bars in rows to avoid overlap
+            var rows = [];
+            var datedRecords = allRecords.filter(function(r) { return r.date_begin != null && r.date_end != null; });
+
+            // Sort by start date
+            datedRecords.sort(function(a, b) { return a.date_begin - b.date_begin; });
+
+            datedRecords.forEach(function(record, i) {
+                var left = yearToPercent(record.date_begin);
+                var right = yearToPercent(record.date_end);
+                var width = Math.max(right - left, 0.5); // minimum visible width
+
+                // Find a row where this bar fits
+                var rowIdx = -1;
+                for (var r = 0; r < rows.length; r++) {
+                    if (rows[r] <= left - 0.3) {
+                        rowIdx = r;
+                        break;
+                    }
+                }
+                if (rowIdx === -1) {
+                    rowIdx = rows.length;
+                    rows.push(0);
+                }
+                rows[rowIdx] = left + width;
+
+                var bar = document.createElement('div');
+                bar.className = 'timeline-bar ' + record.type;
+                bar.dataset.id = record.id;
+                bar.style.left = left + '%';
+                bar.style.width = width + '%';
+                bar.style.top = (4 + rowIdx * 6) + 'px';
+                bar.title = record.name + ' (' + (record.date_range || '') + ')';
+
+                bar.addEventListener('click', function(e) {
+                    e.stopPropagation();
+                    selectRecord(record);
+                });
+
+                barsContainer.appendChild(bar);
+            });
+        }
+
+        function highlightTimelineBar(record) {
+            document.querySelectorAll('.timeline-bar').forEach(function(bar) {
+                bar.classList.remove('active');
+                if (record && bar.dataset.id === record.id) {
+                    bar.classList.add('active');
+                }
+            });
+        }
+
+        function renderTimelineTicks() {
+            var container = document.getElementById('timeline-ticks');
+            container.innerHTML = '';
+            var ticks = [-1100, -900, -700, -500, -300, -100, 100];
+            ticks.forEach(function(year) {
+                var tick = document.createElement('div');
+                tick.className = 'timeline-tick';
+                tick.textContent = formatYear(year);
+                container.appendChild(tick);
+            });
+        }
+
+        // Timeline drag to filter
+        var tlTrack = document.getElementById('timeline-track');
+        var tlWindow = document.getElementById('timeline-window');
+        var isDragging = false;
+        var dragStart = 0;
+
+        tlTrack.addEventListener('mousedown', function(e) {
+            isDragging = true;
+            var rect = tlTrack.getBoundingClientRect();
+            dragStart = ((e.clientX - rect.left) / rect.width) * 100;
+            tlWindow.style.display = 'block';
+            tlWindow.style.left = dragStart + '%';
+            tlWindow.style.width = '0%';
+        });
+
+        document.addEventListener('mousemove', function(e) {
+            if (!isDragging) return;
+            var rect = tlTrack.getBoundingClientRect();
+            var current = Math.max(0, Math.min(100, ((e.clientX - rect.left) / rect.width) * 100));
+            var left = Math.min(dragStart, current);
+            var width = Math.abs(current - dragStart);
+            tlWindow.style.left = left + '%';
+            tlWindow.style.width = width + '%';
+
+            var startYear = percentToYear(left);
+            var endYear = percentToYear(left + width);
+            document.getElementById('timeline-range').textContent = formatYear(startYear) + ' – ' + formatYear(endYear);
+        });
+
+        document.addEventListener('mouseup', function(e) {
+            if (!isDragging) return;
+            isDragging = false;
+            var rect = tlTrack.getBoundingClientRect();
+            var current = Math.max(0, Math.min(100, ((e.clientX - rect.left) / rect.width) * 100));
+            var left = Math.min(dragStart, current);
+            var width = Math.abs(current - dragStart);
+
+            if (width < 2) {
+                // Click, not drag — reset
+                tlWindow.style.display = 'none';
+                timelineFilter = null;
+                document.getElementById('timeline-range').textContent = formatYear(TL_MIN) + ' – ' + formatYear(TL_MAX);
+                applyFilters();
+                return;
+            }
+
+            var startYear = percentToYear(left);
+            var endYear = percentToYear(left + width);
+            timelineFilter = { start: startYear, end: endYear };
+            applyFilters();
+        });
+
+        // Reset button
+        document.getElementById('timeline-reset').addEventListener('click', function() {
+            tlWindow.style.display = 'none';
+            timelineFilter = null;
+            document.getElementById('timeline-range').textContent = formatYear(TL_MIN) + ' – ' + formatYear(TL_MAX);
+            applyFilters();
+        });
+
+        // === Init ===
         loadData();
     </script>
 </body>
