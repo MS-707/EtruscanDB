@@ -62,7 +62,7 @@
       "ancient_name": "Tarchna"
     },
     "institution": "Museo Nazionale Tarquiniese",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Tarquinia_Tomb_of_the_Leopards.jpg/500px-Tarquinia_Tomb_of_the_Leopards.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Tarquinia_Tomb_of_the_Leopards.jpg/500px-Tarquinia_Tomb_of_the_Leopards.jpg",
     "sources": [
       {
         "title": "Etruscan Painting: A Catalogue of Tarquinian Tomb Paintings",
@@ -323,7 +323,7 @@
       "ancient_name": "Pyrgi"
     },
     "institution": "Museo Nazionale Etrusco di Villa Giulia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Pyrgi_tablets.jpg/500px-Pyrgi_tablets.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Pyrgi_tablets.jpg/500px-Pyrgi_tablets.jpg",
     "sources": [
       {
         "title": "The Pyrgi Tablets",
@@ -347,7 +347,7 @@
       "ancient_name": "Poggio Civitate"
     },
     "institution": "Antiquarium di Poggio Civitate, Murlo",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/PVMurlo.jpg/400px-PVMurlo.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/PVMurlo.jpg/500px-PVMurlo.jpg",
     "sources": [
       {
         "title": "Poggio Civitate: A Turning Point",
@@ -417,7 +417,7 @@
       "ancient_name": "Aritim"
     },
     "institution": "Museo Archeologico Nazionale di Arezzo",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chimera_d%27arezzo%2C_fi%2C_04.JPG/500px-Chimera_d%27arezzo%2C_fi%2C_04.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Chimera_d%27arezzo%2C_fi%2C_04.JPG/500px-Chimera_d%27arezzo%2C_fi%2C_04.JPG",
     "sources": [
       {
         "title": "The Chimera of Arezzo",
@@ -538,7 +538,7 @@
       "Ficoroni Cista"
     ],
     "source_url": "https://www.museoetru.it/",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Sarcofago_degli_Sposi.jpg/500px-Sarcofago_degli_Sposi.jpg"
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Sarcofago_degli_Sposi.jpg/500px-Sarcofago_degli_Sposi.jpg"
   },
   {
     "id": "coll-met",
@@ -651,7 +651,7 @@
       "Mater Matuta from Chianciano"
     ],
     "source_url": "https://www.museoarcheologiconazionaledifirenze.it/",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chimera_d%27arezzo%2C_fi%2C_04.JPG/500px-Chimera_d%27arezzo%2C_fi%2C_04.JPG"
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Chimera_d%27arezzo%2C_fi%2C_04.JPG/500px-Chimera_d%27arezzo%2C_fi%2C_04.JPG"
   },
   {
     "id": "coll-guarnacci",
@@ -772,7 +772,7 @@
     "institution": "Museo Nazionale Etrusco di Villa Giulia, Rome",
     "provenance": "Cerveteri (Banditaccia necropolis)",
     "description": "Life-size terracotta sarcophagus depicting a married couple reclining at a banquet. The most iconic work of Etruscan art, showing the relatively equal status of women in Etruscan society.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Sarcofago_degli_Sposi.jpg/500px-Sarcofago_degli_Sposi.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Sarcofago_degli_Sposi.jpg/500px-Sarcofago_degli_Sposi.jpg",
     "source_url": "https://www.museoetru.it/",
     "culture": "Etruscan",
     "location": {
@@ -817,7 +817,7 @@
     "institution": "Museo Archeologico Nazionale di Firenze",
     "provenance": "Arezzo, Tuscany",
     "description": "One of the finest surviving Etruscan large bronzes. Depicts the fire-breathing Chimera wounded by Bellerophon. The Etruscan inscription 'TINSCVIL' (gift to Tinia/Jupiter) is on the right foreleg.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chimera_d%27arezzo%2C_fi%2C_04.JPG/500px-Chimera_d%27arezzo%2C_fi%2C_04.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Chimera_d%27arezzo%2C_fi%2C_04.JPG/500px-Chimera_d%27arezzo%2C_fi%2C_04.JPG",
     "culture": "Etruscan",
     "location": {
       "lat": 43.4633,
@@ -883,7 +883,7 @@
     "institution": "Museo Nazionale Etrusco di Villa Giulia, Rome",
     "provenance": "Pyrgi (Santa Severa), Lazio",
     "description": "Three gold tablets \u2014 two in Etruscan, one in Phoenician \u2014 recording a dedication by Thefarie Velianas, ruler of Caere. The longest known bilingual Etruscan text and key to Etruscan language studies.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Pyrgi_tablets.jpg/500px-Pyrgi_tablets.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Pyrgi_tablets.jpg/500px-Pyrgi_tablets.jpg",
     "culture": "Etruscan/Phoenician",
     "location": {
       "lat": 42.0147,
@@ -1076,7 +1076,7 @@
     "institution": "In situ (Monterozzi necropolis, Tarquinia)",
     "provenance": "Tarquinia",
     "description": "Vivid banqueting scene with musicians, dancers, and reclining diners. Two spotted leopards face each other on the rear wall. The most visited painted tomb in Tarquinia and an icon of Etruscan art.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Tarquinia_Tomb_of_the_Leopards.jpg/500px-Tarquinia_Tomb_of_the_Leopards.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Tarquinia_Tomb_of_the_Leopards.jpg/500px-Tarquinia_Tomb_of_the_Leopards.jpg",
     "culture": "Etruscan",
     "location": {
       "lat": 42.2422,
@@ -1161,7 +1161,7 @@
     "institution": "Antiquarium di Poggio Civitate, Murlo",
     "provenance": "Poggio Civitate (Murlo), Tuscany",
     "description": "Seated terracotta figure wearing a distinctive wide-brimmed hat, from the roof of the monumental building at Poggio Civitate. One of the most recognizable images from Etruscan archaeology.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/PVMurlo.jpg/400px-PVMurlo.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/PVMurlo.jpg/500px-PVMurlo.jpg",
     "culture": "Etruscan",
     "location": {
       "lat": 43.1556,
