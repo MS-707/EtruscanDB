@@ -1213,5 +1213,231 @@
       "modern_name": "Murlo, Tuscany",
       "ancient_name": "Poggio Civitate"
     }
+  },
+  {
+    "id": "art-liver-piacenza",
+    "name": "Liver of Piacenza",
+    "type": "artifact",
+    "category": "bronze model",
+    "period": "Hellenistic",
+    "date_range": "ca. 100 BCE",
+    "date_begin": -120,
+    "date_end": -80,
+    "medium": "Bronze",
+    "institution": "Museo Civico di Piacenza",
+    "provenance": "Gossolengo, near Piacenza",
+    "description": "Bronze model of a sheep's liver divided into sections inscribed with names of Etruscan deities. Used for haruspicy (divination by examining animal entrails). One of the most important sources for understanding Etruscan religion and its divine hierarchy.",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 45.0526,
+      "lng": 9.6933,
+      "modern_name": "Piacenza, Emilia-Romagna",
+      "ancient_name": ""
+    },
+    "image_url": ""
+  },
+  {
+    "id": "art-tomb-diving",
+    "name": "Tomb of the Diver (Paestum)",
+    "type": "artifact",
+    "category": "wall painting",
+    "period": "Classical",
+    "date_range": "ca. 470 BCE",
+    "date_begin": -480,
+    "date_end": -470,
+    "medium": "Fresco on limestone slabs",
+    "institution": "Museo Archeologico Nazionale di Paestum",
+    "provenance": "Paestum (Poseidonia), Campania",
+    "description": "Unique painted tomb showing a young man diving into water \u2014 widely interpreted as a metaphor for the passage from life to death. While Greek in context, shows strong Etruscan influence in its funerary painting tradition.",
+    "culture": "Greek/Etruscan influence",
+    "location": {
+      "lat": 40.42,
+      "lng": 15.005,
+      "modern_name": "Paestum, Campania",
+      "ancient_name": "Poseidonia"
+    },
+    "image_url": ""
+  },
+  {
+    "id": "site-gravisca",
+    "name": "Gravisca",
+    "type": "site",
+    "category": "sanctuary/port",
+    "period": "Archaic\u2013Hellenistic",
+    "date_range": "600\u2013200 BCE",
+    "date_begin": -600,
+    "date_end": -200,
+    "description": "Port of Tarquinia and major Greek-Etruscan trading sanctuary. Greek inscriptions dedicate offerings to Aphrodite, Hera, and Demeter, demonstrating intimate cultural exchange between Greeks and Etruscans.",
+    "location": {
+      "lat": 42.2167,
+      "lng": 11.7167,
+      "modern_name": "Porto Clementino, Lazio",
+      "ancient_name": "Gravisca"
+    },
+    "sources": [
+      {
+        "title": "Gravisca: Sanctuary of the Greek Emporion",
+        "author": "Torelli, M.",
+        "year": 1977
+      }
+    ]
+  },
+  {
+    "id": "site-cosa",
+    "name": "Cosa",
+    "type": "site",
+    "category": "colony",
+    "period": "Hellenistic\u2013Roman",
+    "date_range": "273 BCE\u2013300 CE",
+    "date_begin": -273,
+    "date_end": 300,
+    "description": "Roman colony founded on a former Etruscan site. Extensively excavated by the American Academy in Rome. Provides unique evidence for the transition from Etruscan to Roman settlement patterns.",
+    "location": {
+      "lat": 42.4075,
+      "lng": 11.2881,
+      "modern_name": "Ansedonia, Tuscany",
+      "ancient_name": "Cosa"
+    },
+    "sources": [
+      {
+        "title": "Cosa: The Italian Sigillata",
+        "author": "Brown, F.E.",
+        "year": 1980
+      }
+    ]
+  },
+  {
+    "id": "site-san-giovenale",
+    "name": "San Giovenale",
+    "type": "site",
+    "category": "settlement",
+    "period": "Bronze Age\u2013Archaic",
+    "date_range": "1600\u2013500 BCE",
+    "date_begin": -1600,
+    "date_end": -500,
+    "description": "Etruscan settlement excavated by the Swedish Institute in Rome. One of the most thoroughly documented small Etruscan settlements, providing crucial evidence for everyday domestic life.",
+    "location": {
+      "lat": 42.2833,
+      "lng": 11.9167,
+      "modern_name": "Blera, Lazio",
+      "ancient_name": "San Giovenale"
+    },
+    "sources": [
+      {
+        "title": "San Giovenale: Excavations and Surveys",
+        "author": "Nylander, C.",
+        "year": 1986
+      }
+    ]
+  },
+  {
+    "id": "site-acquarossa",
+    "name": "Acquarossa",
+    "type": "site",
+    "category": "settlement",
+    "period": "Archaic",
+    "date_range": "700\u2013500 BCE",
+    "date_begin": -700,
+    "date_end": -500,
+    "description": "Etruscan settlement systematically excavated by Swedish archaeologists. Uniquely preserved domestic architecture with elaborate terracotta roof decorations. Destroyed around 500 BCE and never reoccupied.",
+    "location": {
+      "lat": 42.4333,
+      "lng": 12.05,
+      "modern_name": "Viterbo, Lazio",
+      "ancient_name": "Acquarossa"
+    },
+    "sources": [
+      {
+        "title": "Acquarossa: Architectural Terracottas",
+        "author": "Wikander, \u00d6.",
+        "year": 1993
+      }
+    ]
+  },
+  {
+    "id": "art-sarcophagus-amazons",
+    "name": "Sarcophagus of the Amazons",
+    "type": "artifact",
+    "category": "sarcophagus",
+    "period": "Classical",
+    "date_range": "ca. 350 BCE",
+    "date_begin": -360,
+    "date_end": -340,
+    "medium": "Painted marble",
+    "institution": "Museo Archeologico Nazionale di Firenze",
+    "provenance": "Tarquinia",
+    "description": "Painted marble sarcophagus with vivid scenes of Greeks fighting Amazons. One of the few surviving examples of Etruscan painting on stone, with remarkably preserved polychrome decoration.",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 42.2494,
+      "lng": 11.7556,
+      "modern_name": "Tarquinia",
+      "ancient_name": "Tarchna"
+    },
+    "image_url": ""
+  },
+  {
+    "id": "art-tomb-shields",
+    "name": "Tomb of the Shields Frescoes",
+    "type": "artifact",
+    "category": "wall painting",
+    "period": "Hellenistic",
+    "date_range": "ca. 340 BCE",
+    "date_begin": -350,
+    "date_end": -330,
+    "medium": "Fresco on tufa",
+    "institution": "In situ (Monterozzi necropolis, Tarquinia)",
+    "provenance": "Tarquinia",
+    "description": "Elaborate tomb of the Velcha family with banqueting scenes showing named individuals. One of the most important sources for understanding Etruscan aristocratic identity and family structures. The couple Velthur Velcha and Ravnthu Aprthnai are shown in intimate detail.",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 42.2422,
+      "lng": 11.7614,
+      "modern_name": "Tarquinia",
+      "ancient_name": "Tarchna"
+    },
+    "image_url": ""
+  },
+  {
+    "id": "coll-penn-murlo",
+    "name": "Poggio Civitate Digital Archives (Penn)",
+    "type": "collection",
+    "category": "digital archive",
+    "description": "Open-access digital archive of the Poggio Civitate (Murlo) excavations, maintained by the University of Pennsylvania. Includes excavation records, photographs, and 3D models spanning decades of fieldwork.",
+    "location": {
+      "lat": 39.9492,
+      "lng": -75.1914,
+      "modern_name": "Philadelphia, USA (online)"
+    },
+    "source_url": "https://www.poggiocivitate.org/",
+    "notable_objects": [
+      "Full excavation database",
+      "3D architectural reconstructions",
+      "Terracotta catalog"
+    ]
+  },
+  {
+    "id": "site-capua",
+    "name": "Capua (Etruscan)",
+    "type": "site",
+    "category": "city",
+    "period": "Archaic\u2013Hellenistic",
+    "date_range": "600\u2013300 BCE",
+    "date_begin": -600,
+    "date_end": -300,
+    "description": "Major Etruscan city in Campania (southern Italy), part of the Etruscan expansion beyond their heartland. Seat of a second Etruscan league. The Capua Tile \u2014 a major Etruscan ritual calendar inscription \u2014 was found here.",
+    "location": {
+      "lat": 41.1067,
+      "lng": 14.2133,
+      "modern_name": "Santa Maria Capua Vetere, Campania",
+      "ancient_name": "Capua"
+    },
+    "sources": [
+      {
+        "title": "The Etruscans in Campania",
+        "author": "Frederiksen, M.",
+        "year": 1984
+      }
+    ]
   }
 ]
