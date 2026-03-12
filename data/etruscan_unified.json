@@ -1626,5 +1626,235 @@
       "ancient_name": "Capua"
     },
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ancient_legends_of_Roman_history_%281905%29_%2814590929287%29.jpg/500px-Ancient_legends_of_Roman_history_%281905%29_%2814590929287%29.jpg"
+  },
+  {
+    "id": "art-warrior-capestrano",
+    "name": "Warrior of Capestrano",
+    "type": "artifact",
+    "category": "stone sculpture",
+    "period": "Archaic",
+    "date_range": "6th century BCE",
+    "date_begin": -550,
+    "date_end": -500,
+    "medium": "Limestone",
+    "institution": "Museo Archeologico Nazionale d'Abruzzo, Chieti",
+    "provenance": "Capestrano, Abruzzo",
+    "description": "Monumental limestone warrior statue with distinctive disc armor and wide-brimmed hat. While technically Italic (Picene/Vestini), shows strong Etruscan artistic influence and represents the wider Italic world the Etruscans shaped.",
+    "culture": "Italic/Etruscan influence",
+    "location": {
+      "lat": 42.2672,
+      "lng": 13.7689,
+      "modern_name": "Capestrano, Abruzzo",
+      "ancient_name": ""
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Guerriero_di_capestrano%2C_da_capestrano%2C_600-550_ac_ca._02.jpg/500px-Guerriero_di_capestrano%2C_da_capestrano%2C_600-550_ac_ca._02.jpg"
+  },
+  {
+    "id": "art-brutus-capitolinus",
+    "name": "Capitoline Brutus",
+    "type": "artifact",
+    "category": "bronze portrait",
+    "period": "Classical/Hellenistic",
+    "date_range": "4th\u20133rd century BCE",
+    "date_begin": -350,
+    "date_end": -250,
+    "medium": "Bronze",
+    "institution": "Musei Capitolini, Rome",
+    "provenance": "Rome",
+    "description": "Bronze portrait head traditionally identified as Lucius Junius Brutus, who expelled the Etruscan kings from Rome. Possibly an Etruscan work \u2014 the inlaid eyes and intense realism reflect Etruscan bronze-working tradition at its peak.",
+    "culture": "Etruscan/Roman",
+    "location": {
+      "lat": 41.893,
+      "lng": 12.4827,
+      "modern_name": "Rome",
+      "ancient_name": "Roma"
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Unidentified_Portrait%2C_the_So-Called_Servilius_Ahala_%2849345472157%29.jpg/500px-Unidentified_Portrait%2C_the_So-Called_Servilius_Ahala_%2849345472157%29.jpg"
+  },
+  {
+    "id": "art-tages-mirror",
+    "name": "Bronze Mirror with Tages Scene",
+    "type": "artifact",
+    "category": "bronze mirror",
+    "period": "Classical",
+    "date_range": "ca. 400\u2013350 BCE",
+    "date_begin": -400,
+    "date_end": -350,
+    "medium": "Bronze (engraved)",
+    "institution": "Museo Gregoriano Etrusco, Vatican",
+    "provenance": "Tuscania, Lazio",
+    "description": "Engraved bronze hand mirror showing the myth of Tages \u2014 the child prophet who sprang from a furrow and taught the Etruscans the art of haruspicy. Etruscan mirrors are among the most common luxury items and feature some of the finest engraving in ancient art.",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 42.4181,
+      "lng": 11.87,
+      "modern_name": "Tuscania, Lazio",
+      "ancient_name": "Tuscana"
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Hand_mirror%2C_Etruscan%2C_first_half_of_3rd_century_BC%2C_engraved_bronze_-_Sackler_Museum_-_Harvard_University_-_PXL_20250722_153657673.jpg/500px-Hand_mirror%2C_Etruscan%2C_first_half_of_3rd_century_BC%2C_engraved_bronze_-_Sackler_Museum_-_Harvard_University_-_PXL_20250722_153657673.jpg"
+  },
+  {
+    "id": "art-canopic-chiusi",
+    "name": "Canopic Jar from Chiusi",
+    "type": "artifact",
+    "category": "funerary urn",
+    "period": "Orientalizing",
+    "date_range": "ca. 650\u2013600 BCE",
+    "date_begin": -650,
+    "date_end": -600,
+    "medium": "Terracotta with bronze",
+    "institution": "Museo Archeologico Nazionale di Chiusi",
+    "provenance": "Chiusi, Tuscany",
+    "description": "Distinctive Chiusine canopic jar with a portrait head as lid and small arms attached to the body. These jars \u2014 unique to Chiusi \u2014 represent an early Etruscan approach to portraiture, giving the dead a permanent face in terracotta.",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 43.0167,
+      "lng": 11.95,
+      "modern_name": "Chiusi",
+      "ancient_name": "Clevsin"
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/California_Digital_Library_%28IA_secondcatalogueo00museiala%29.pdf/page1-500px-California_Digital_Library_%28IA_secondcatalogueo00museiala%29.pdf.jpg"
+  },
+  {
+    "id": "art-mater-matuta",
+    "name": "Mater Matuta from Chianciano",
+    "type": "artifact",
+    "category": "stone sculpture",
+    "period": "Classical",
+    "date_range": "ca. 460\u2013440 BCE",
+    "date_begin": -460,
+    "date_end": -440,
+    "medium": "Pietra fetida (limestone)",
+    "institution": "Museo Archeologico Nazionale di Firenze",
+    "provenance": "Chianciano Terme, Tuscany",
+    "description": "Enthroned goddess figure holding a child, identified as Mater Matuta (dawn goddess) or a mortal mother. A masterpiece of Etruscan stone sculpture showing a softer, more intimate style than contemporary Greek work.",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 43.0583,
+      "lng": 11.8317,
+      "modern_name": "Chianciano Terme",
+      "ancient_name": ""
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mater_Matuta_Chianciano.jpg/500px-Mater_Matuta_Chianciano.jpg"
+  },
+  {
+    "id": "art-bucchero-chalice",
+    "name": "Bucchero Chalice with Alphabet",
+    "type": "artifact",
+    "category": "pottery",
+    "period": "Archaic",
+    "date_range": "ca. 650 BCE",
+    "date_begin": -660,
+    "date_end": -640,
+    "medium": "Bucchero (black polished ceramic)",
+    "institution": "Museo Nazionale Etrusco di Villa Giulia, Rome",
+    "provenance": "Cerveteri",
+    "description": "Bucchero chalice incised with the complete Etruscan alphabet \u2014 one of the earliest known alphabets in Italy. Bucchero is the distinctive black Etruscan pottery, made by firing clay in a reducing atmosphere. This piece links literacy and luxury.",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 42.0005,
+      "lng": 12.0986,
+      "modern_name": "Cerveteri",
+      "ancient_name": "Caere"
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bucchero_nero_kantharos-MDR_Marseille-IMG_5110.jpg/500px-Bucchero_nero_kantharos-MDR_Marseille-IMG_5110.jpg"
+  },
+  {
+    "id": "art-tomb-orcus",
+    "name": "Tomb of Orcus Frescoes",
+    "type": "artifact",
+    "category": "wall painting",
+    "period": "Classical\u2013Hellenistic",
+    "date_range": "ca. 350\u2013300 BCE",
+    "date_begin": -350,
+    "date_end": -300,
+    "medium": "Fresco on tufa",
+    "institution": "In situ (Monterozzi necropolis, Tarquinia)",
+    "provenance": "Tarquinia",
+    "description": "Tomb with paintings of the Etruscan underworld featuring Vanth (a winged death demon) and Charun (ferryman of the dead with a hammer). The portrait of 'Velia Velcha' is one of the most beautiful surviving Etruscan portraits \u2014 a profile of a noble woman with elaborate jewelry.",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 42.2422,
+      "lng": 11.7614,
+      "modern_name": "Tarquinia",
+      "ancient_name": "Tarchna"
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Velia_Velcha_Orcus_II.jpg/500px-Velia_Velcha_Orcus_II.jpg"
+  },
+  {
+    "id": "art-gold-wreath-vulci",
+    "name": "Gold Wreath from Vulci",
+    "type": "artifact",
+    "category": "gold jewelry",
+    "period": "Classical",
+    "date_range": "ca. 400\u2013350 BCE",
+    "date_begin": -400,
+    "date_end": -350,
+    "medium": "Gold",
+    "institution": "Antikensammlung, Munich",
+    "provenance": "Vulci, Lazio",
+    "description": "Exquisite gold funerary wreath with oak leaves and acorns. Etruscan goldsmiths were the finest in the ancient Mediterranean \u2014 their mastery of granulation (decorating surfaces with tiny gold spheres) was not equaled until the 19th century.",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 42.4186,
+      "lng": 11.6333,
+      "modern_name": "Montalto di Castro",
+      "ancient_name": "Velch/Vulci"
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/0_Couronnes_en_or_de_Vulci_-_Mil._IVe_si%C3%A8cle_av._J-C.JPG/500px-0_Couronnes_en_or_de_Vulci_-_Mil._IVe_si%C3%A8cle_av._J-C.JPG"
+  },
+  {
+    "id": "site-tuscania",
+    "name": "Tuscania",
+    "type": "site",
+    "category": "settlement/necropolis",
+    "period": "Archaic\u2013Hellenistic",
+    "date_range": "700\u2013200 BCE",
+    "date_begin": -700,
+    "date_end": -200,
+    "description": "Important Etruscan center in the Viterbo province with extensive rock-cut necropoleis. The Tomba della Regina (Queen's Tomb) and numerous painted tombs provide insight into Etruscan funerary customs spanning centuries.",
+    "location": {
+      "lat": 42.4181,
+      "lng": 11.87,
+      "modern_name": "Tuscania, Lazio",
+      "ancient_name": "Tuscana"
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Jardin_Campanari_%C3%A0_Toscanella.jpg/500px-Jardin_Campanari_%C3%A0_Toscanella.jpg"
+  },
+  {
+    "id": "site-pyrgi-temple",
+    "name": "Temple A at Pyrgi",
+    "type": "site",
+    "category": "temple",
+    "period": "Archaic",
+    "date_range": "ca. 470 BCE",
+    "date_begin": -480,
+    "date_end": -460,
+    "description": "One of the largest known Etruscan temples, dedicated to Uni (Etruscan Juno/Astarte). The remarkable terracotta pediment shows the myth of Tydeus and Melanippus. Excavations revealed the famous Pyrgi Tablets nearby.",
+    "location": {
+      "lat": 42.0147,
+      "lng": 11.9556,
+      "modern_name": "Santa Severa, Lazio",
+      "ancient_name": "Pyrgi"
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_cities_and_cemeteries_of_Etruria_%28IA_citiesandcemeter01denniala%29.pdf/page1-500px-The_cities_and_cemeteries_of_Etruria_%28IA_citiesandcemeter01denniala%29.pdf.jpg"
+  },
+  {
+    "id": "site-lago-accesa",
+    "name": "Lago dell'Accesa",
+    "type": "site",
+    "category": "settlement",
+    "period": "Archaic",
+    "date_range": "700\u2013500 BCE",
+    "date_begin": -700,
+    "date_end": -500,
+    "description": "Etruscan mining settlement near Massa Marittima, associated with metal extraction from the Colline Metallifere (metalliferous hills). One of the best-documented examples of Etruscan industrial activity, with distinct residential quarters for different social classes.",
+    "location": {
+      "lat": 42.9667,
+      "lng": 10.8833,
+      "modern_name": "Massa Marittima, Tuscany",
+      "ancient_name": ""
+    },
+    "image_url": ""
   }
 ]
