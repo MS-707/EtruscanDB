@@ -14,7 +14,7 @@
       "ancient_name": "Veii"
     },
     "institution": "Museo Nazionale Etrusco di Villa Giulia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Aplu_Veio_01.JPG/440px-Aplu_Veio_01.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Tempio_di_veio.JPG/500px-Tempio_di_veio.JPG",
     "sources": [
       {
         "title": "Veii (Veio): An Etruscan City",
@@ -40,7 +40,7 @@
       "ancient_name": "Caere/Cisra"
     },
     "institution": "Museo Nazionale Cerite",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Banditaccia_Tomba_dei_Capitelli.jpg/500px-Banditaccia_Tomba_dei_Capitelli.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Banditaccia_%28Cerveteri%29DSCF6681.jpg/500px-Banditaccia_%28Cerveteri%29DSCF6681.jpg",
     "sources": [
       {
         "title": "Cerveteri: Three Centuries of Discovery",
@@ -92,7 +92,7 @@
       "ancient_name": "Velch"
     },
     "institution": "Museo Nazionale Archeologico di Vulci",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Ponte_dell%27Abbadia_Vulci.jpg/500px-Ponte_dell%27Abbadia_Vulci.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/History_of_ancient_pottery%2C_Egyptian%2C_Assyrian%2C_Greek%2C_Etruscan%2C_and_Roman_%28IA_historyofancient00bircrich%29.pdf/page1-500px-History_of_ancient_pottery%2C_Egyptian%2C_Assyrian%2C_Greek%2C_Etruscan%2C_and_Roman_%28IA_historyofancient00bircrich%29.pdf.jpg",
     "sources": [
       {
         "title": "Vulci: Profile of an Etruscan City",
@@ -118,7 +118,7 @@
       "ancient_name": "Clevsin/Camars"
     },
     "institution": "Museo Archeologico Nazionale di Chiusi",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cinerary_Urn_with_Lid%2C_canopic_jar_from_Chiusi.jpg/400px-Cinerary_Urn_with_Lid%2C_canopic_jar_from_Chiusi.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Canopo%2C_prima_met%C3%A0_del_VII_sec_aC_-_Canopic_urn%2C_first_half_of_the_7th_century_B.C.jpg/500px-Canopo%2C_prima_met%C3%A0_del_VII_sec_aC_-_Canopic_urn%2C_first_half_of_the_7th_century_B.C.jpg",
     "sources": [
       {
         "title": "Chiusi in the Age of Lars Porsenna",
@@ -144,7 +144,7 @@
       "ancient_name": "Velathri"
     },
     "institution": "Museo Etrusco Guarnacci",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Shadow_of_the_Evening.jpg/300px-Shadow_of_the_Evening.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Gate_at_Volterra_%28I%29_%284911368762%29.jpg/500px-Gate_at_Volterra_%28I%29_%284911368762%29.jpg",
     "sources": [
       {
         "title": "Volterra: The Story of an Etruscan City",
@@ -170,7 +170,7 @@
       "ancient_name": "Pupluna/Fufluna"
     },
     "institution": "Museo Archeologico di Populonia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Populonia_necropoli.jpg/500px-Populonia_necropoli.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Populonia_tumulo.jpg/500px-Populonia_tumulo.jpg",
     "sources": [
       {
         "title": "Populonia in the Age of Iron",
@@ -204,7 +204,8 @@
       }
     ],
     "date_begin": -900,
-    "date_end": -200
+    "date_end": -200,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Urna_argentea_ad_arca_dalla_tomba_del_duce_a_poggio_al_bello%2C_vetulonia%2C_650-625_ac._ca._01_sfinge.jpg/500px-Urna_argentea_ad_arca_dalla_tomba_del_duce_a_poggio_al_bello%2C_vetulonia%2C_650-625_ac._ca._01_sfinge.jpg"
   },
   {
     "id": "site-orvieto",
@@ -221,7 +222,7 @@
       "ancient_name": "Velzna"
     },
     "institution": "Museo Archeologico Nazionale di Orvieto",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Crocifisso_del_Tufo_2.JPG/500px-Crocifisso_del_Tufo_2.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Giardino_del_museo_archeologico%2C_tomba_del_crocifisso_del_tufo_da_orvieto%2C_VI-V_sec_ac._04_iscrizione.JPG/500px-Giardino_del_museo_archeologico%2C_tomba_del_crocifisso_del_tufo_da_orvieto%2C_VI-V_sec_ac._04_iscrizione.JPG",
     "sources": [
       {
         "title": "The Etruscan City-State of Volsinii",
@@ -247,7 +248,7 @@
       "ancient_name": "Perusia"
     },
     "institution": "Museo Archeologico Nazionale dell'Umbria",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arco_etrusco_-_perugia.jpg/400px-Arco_etrusco_-_perugia.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/L%27Album%3B_giornale_letterario_e_di_belle_arti_%28IA_lalbumgiornalele07unse%29.pdf/page1-500px-L%27Album%3B_giornale_letterario_e_di_belle_arti_%28IA_lalbumgiornalele07unse%29.pdf.jpg",
     "sources": [
       {
         "title": "The Cippus Perusinus",
@@ -281,7 +282,8 @@
       }
     ],
     "date_begin": -600,
-    "date_end": -200
+    "date_end": -200,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Etruscan_kelebe_from_the_workshop_of_Volterra_-_ornaments_-_head_-_Cortona_MAEC_202517.jpg/500px-Etruscan_kelebe_from_the_workshop_of_Volterra_-_ornaments_-_head_-_Cortona_MAEC_202517.jpg"
   },
   {
     "id": "site-marzabotto",
@@ -298,7 +300,7 @@
       "ancient_name": "Kainua"
     },
     "institution": "Museo Nazionale Etrusco Pompeo Aria",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Marzabotto_-_Kainua_03.jpg/500px-Marzabotto_-_Kainua_03.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ricostruzione_acropoli_Kainua_di_Pericle_Ducati.jpg/500px-Ricostruzione_acropoli_Kainua_di_Pericle_Ducati.jpg",
     "sources": [
       {
         "title": "Kainua-Marzabotto: An Etruscan City in the Po Valley",
@@ -332,7 +334,8 @@
       }
     ],
     "date_begin": -530,
-    "date_end": -250
+    "date_end": -250,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Reperti_archeologici_Etruschi_-_Antica_citt%C3%A0_di_Spina_-_Museo_Delta_Antico_Comacchio.jpg/500px-Reperti_archeologici_Etruschi_-_Antica_citt%C3%A0_di_Spina_-_Museo_Delta_Antico_Comacchio.jpg"
   },
   {
     "id": "site-pyrgi",
@@ -375,7 +378,7 @@
       "ancient_name": "Poggio Civitate"
     },
     "institution": "Antiquarium di Poggio Civitate, Murlo",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/PVMurlo.jpg/500px-PVMurlo.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/CowboyMurlo.jpg/500px-CowboyMurlo.jpg",
     "sources": [
       {
         "title": "Poggio Civitate: A Turning Point",
@@ -409,7 +412,8 @@
       }
     ],
     "date_begin": -800,
-    "date_end": -200
+    "date_end": -200,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/The_Etruscan_walls%2C_Rusellae%2C_Etruria%2C_Italy_%2844095294001%29.jpg/500px-The_Etruscan_walls%2C_Rusellae%2C_Etruria%2C_Italy_%2844095294001%29.jpg"
   },
   {
     "id": "site-fiesole",
@@ -434,7 +438,8 @@
       }
     ],
     "date_begin": -600,
-    "date_end": -100
+    "date_end": -100,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Handbook_of_archaeology%2C_Egyptian_-_Greek_-_Etruscan_-_Roman_%28IA_handbookofarchae00west%29.pdf/page1-500px-Handbook_of_archaeology%2C_Egyptian_-_Greek_-_Etruscan_-_Roman_%28IA_handbookofarchae00west%29.pdf.jpg"
   },
   {
     "id": "site-arezzo",
@@ -485,7 +490,8 @@
       }
     ],
     "date_begin": -264,
-    "date_end": -100
+    "date_end": -100,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Pompeii%2C_its_life_and_art_%28IA_pompeiiitslifear00maua%29.pdf/page1-500px-Pompeii%2C_its_life_and_art_%28IA_pompeiiitslifear00maua%29.pdf.jpg"
   },
   {
     "id": "site-norchia",
@@ -509,7 +515,8 @@
       }
     ],
     "date_begin": -400,
-    "date_end": -200
+    "date_end": -200,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Etruscan_tomb_Camino_-_Norchia_Italy.jpg/500px-Etruscan_tomb_Camino_-_Norchia_Italy.jpg"
   },
   {
     "id": "site-banditaccia",
@@ -526,7 +533,7 @@
       "ancient_name": "Banditaccia"
     },
     "institution": "UNESCO / Soprintendenza Lazio",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Banditaccia_Panorama.JPG/600px-Banditaccia_Panorama.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Banditaccia_Tumulus.jpg/500px-Banditaccia_Tumulus.jpg",
     "sources": [
       {
         "title": "The Banditaccia Necropolis at Cerveteri",
@@ -552,7 +559,7 @@
       "ancient_name": "Monterozzi"
     },
     "institution": "UNESCO / Museo Nazionale Tarquiniese",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Etruscan_painting_1.jpg/500px-Etruscan_painting_1.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Tomb_of_hunting_and_fishing%2C_Monterozzi_necropolis%2C_Tarquinia%2C_Italy.jpg/500px-Tomb_of_hunting_and_fishing%2C_Monterozzi_necropolis%2C_Tarquinia%2C_Italy.jpg",
     "sources": [
       {
         "title": "The Painted Tombs of Tarquinia",
@@ -602,7 +609,7 @@
       "Terracotta warriors"
     ],
     "source_url": "https://www.metmuseum.org/",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/MET_Monteleone_chariot.jpg/400px-MET_Monteleone_chariot.jpg"
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bronze_Mirror%2C_Metropolitan_Museum_of_Art%2C_Nr._07.259.JPG/500px-Bronze_Mirror%2C_Metropolitan_Museum_of_Art%2C_Nr._07.259.JPG"
   },
   {
     "id": "coll-british-museum",
@@ -622,7 +629,7 @@
       "Etruscan bronze mirrors"
     ],
     "source_url": "https://www.britishmuseum.org/",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/FibulaPrenestina.jpg/400px-FibulaPrenestina.jpg"
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Etruscan_antiquities_in_the_British_Museum_DSCF0012_02.JPG/500px-Etruscan_antiquities_in_the_British_Museum_DSCF0012_02.JPG"
   },
   {
     "id": "coll-louvre",
@@ -641,7 +648,8 @@
       "Campana plaques",
       "Bucchero collection"
     ],
-    "source_url": "https://www.louvre.fr/"
+    "source_url": "https://www.louvre.fr/",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Etruscan_sarcophagi_in_the_Mus%C3%A9e_du_Louvre.jpg/500px-Etruscan_sarcophagi_in_the_Mus%C3%A9e_du_Louvre.jpg"
   },
   {
     "id": "coll-vatican",
@@ -660,7 +668,8 @@
       "Mars of Todi bronze",
       "Ficoroni Cista"
     ],
-    "source_url": "https://www.museivaticani.va/"
+    "source_url": "https://www.museivaticani.va/",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/0_Bige_archa%C3%AFque_-_Museo_Gregoriano_Etrusco_%28Vatican%29.JPG/500px-0_Bige_archa%C3%AFque_-_Museo_Gregoriano_Etrusco_%28Vatican%29.JPG"
   },
   {
     "id": "coll-penn",
@@ -674,7 +683,8 @@
       "modern_name": "Philadelphia, USA"
     },
     "holdings_estimate": "200+ Etruscan objects",
-    "source_url": "https://www.penn.museum/"
+    "source_url": "https://www.penn.museum/",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/University_of_Pennsylvania_guide_book%2C_1904-05_%28IA_universityofpenn03nitz%29.pdf/page1-500px-University_of_Pennsylvania_guide_book%2C_1904-05_%28IA_universityofpenn03nitz%29.pdf.jpg"
   },
   {
     "id": "coll-florence",
@@ -715,7 +725,7 @@
       "600+ alabaster urns"
     ],
     "source_url": "https://www.museoguarnacci.it/",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Shadow_of_the_Evening.jpg/300px-Shadow_of_the_Evening.jpg"
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/1761_wurde_das_Museo_Etrusco_Guarnacci_in_Volterra_gegr%C3%BCndet._16.jpg/500px-1761_wurde_das_Museo_Etrusco_Guarnacci_in_Volterra_gegr%C3%BCndet._16.jpg"
   },
   {
     "id": "coll-maec-cortona",
@@ -733,7 +743,8 @@
       "Etruscan lampadario (chandelier)",
       "Local tomb finds"
     ],
-    "source_url": "https://cortonamaec.org/"
+    "source_url": "https://cortonamaec.org/",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Etruscan_kelebe_from_the_workshop_of_Volterra_-_ornaments_-_head_-_Cortona_MAEC_202517.jpg/500px-Etruscan_kelebe_from_the_workshop_of_Volterra_-_ornaments_-_head_-_Cortona_MAEC_202517.jpg"
   },
   {
     "id": "coll-tarquinia",
@@ -752,7 +763,7 @@
       "Sarcophagi"
     ],
     "source_url": "https://www.museotarquiniese.it/",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Tarquinia_CavaliAlati.jpg/500px-Tarquinia_CavaliAlati.jpg"
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sarcophago_dell%27Obeso.jpg/330px-Sarcophago_dell%27Obeso.jpg"
   },
   {
     "id": "coll-berlin",
@@ -765,7 +776,8 @@
       "lng": 13.3986,
       "modern_name": "Berlin, Germany"
     },
-    "source_url": "https://www.smb.museum/en/museums-institutions/antikensammlung/"
+    "source_url": "https://www.smb.museum/en/museums-institutions/antikensammlung/",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Altes_Museum_-_Antikensammlung_162.JPG/500px-Altes_Museum_-_Antikensammlung_162.JPG"
   },
   {
     "id": "coll-copenhagen",
@@ -778,7 +790,8 @@
       "lng": 12.5724,
       "modern_name": "Copenhagen, Denmark"
     },
-    "source_url": "https://www.glyptoteket.com/"
+    "source_url": "https://www.glyptoteket.com/",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Ny_Carlsberg_Glyptotek%2C_Copenhagen%2C_20220618_1121_7102.jpg/500px-Ny_Carlsberg_Glyptotek%2C_Copenhagen%2C_20220618_1121_7102.jpg"
   },
   {
     "id": "met-241860",
@@ -793,7 +806,7 @@
     "institution": "The Metropolitan Museum of Art",
     "provenance": "Monteleone di Spoleto, Umbria",
     "description": "Etruscan bronze chariot with three embossed panels depicting scenes from the life of Achilles. One of the finest surviving examples of Etruscan bronze work. Found in a tomb in 1902.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/MET_Monteleone_chariot.jpg/400px-MET_Monteleone_chariot.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Etruscan_chariot_of_Monteleone_di_Spoleto.jpg/500px-Etruscan_chariot_of_Monteleone_di_Spoleto.jpg",
     "source_url": "https://www.metmuseum.org/art/collection/search/248892",
     "culture": "Etruscan",
     "location": {
@@ -839,7 +852,7 @@
     "institution": "Museo Nazionale Etrusco di Villa Giulia, Rome",
     "provenance": "Veii, Portonaccio temple",
     "description": "Near life-size painted terracotta statue of Apollo, attributed to the master Vulca of Veii \u2014 the only Etruscan artist known by name. Stood on the roof ridge of the Portonaccio temple.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Aplu_Veio_01.JPG/440px-Aplu_Veio_01.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Decorazione_fittile_del_santuario_di_portonaccio%2C_510-500_ac_ca%2C_acroteri%2C_02.jpg/500px-Decorazione_fittile_del_santuario_di_portonaccio%2C_510-500_ac_ca%2C_acroteri%2C_02.jpg",
     "culture": "Etruscan",
     "location": {
       "lat": 42.0214,
@@ -883,7 +896,7 @@
     "institution": "Museo Archeologico Nazionale di Firenze",
     "provenance": "Lake Trasimeno, Umbria",
     "description": "Full-length bronze portrait of Aule Meteli, an Etruscan man in Roman toga making an oratorical gesture. Bilingual Etruscan inscription. Embodies the moment of Etruscan cultural absorption into Rome.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Arringatore%2C_fi%2C_01.JPG/300px-Arringatore%2C_fi%2C_01.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/L%27Arringatore2.jpg/500px-L%27Arringatore2.jpg",
     "culture": "Etruscan",
     "location": {
       "lat": 43.1167,
@@ -905,7 +918,7 @@
     "institution": "Museo Gregoriano Etrusco, Vatican",
     "provenance": "Todi, Umbria",
     "description": "Large bronze statue of a warrior making a libation, with Umbrian inscription. One of the few surviving large-scale Etruscan bronzes. Shows Greek Classical influence filtered through Etruscan style.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Marte_di_Todi_01.JPG/300px-Marte_di_Todi_01.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Mars_of_Todi.jpg/500px-Mars_of_Todi.jpg",
     "culture": "Etruscan/Umbrian",
     "location": {
       "lat": 42.7808,
@@ -927,7 +940,7 @@
     "institution": "Museo Nazionale Etrusco di Villa Giulia, Rome",
     "provenance": "Pyrgi (Santa Severa), Lazio",
     "description": "Three gold tablets \u2014 two in Etruscan, one in Phoenician \u2014 recording a dedication by Thefarie Velianas, ruler of Caere. The longest known bilingual Etruscan text and key to Etruscan language studies.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Pyrgi_tablets.jpg/500px-Pyrgi_tablets.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pyrgi_tablets_B.jpg/500px-Pyrgi_tablets_B.jpg",
     "culture": "Etruscan/Phoenician",
     "location": {
       "lat": 42.0147,
@@ -949,7 +962,7 @@
     "institution": "Museo Etrusco Guarnacci, Volterra",
     "provenance": "Volterra, Tuscany",
     "description": "Elongated bronze votive figure of a nude boy, remarkably reminiscent of Giacometti's modern sculptures. Named by Gabriele D'Annunzio for its resemblance to a long evening shadow.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Shadow_of_the_Evening.jpg/300px-Shadow_of_the_Evening.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/%22Abendschatten%22%2C_Ombra_della_Sera_wird_die_superschlanke_Votivstatuette_genannt._02.jpg/500px-%22Abendschatten%22%2C_Ombra_della_Sera_wird_die_superschlanke_Votivstatuette_genannt._02.jpg",
     "culture": "Etruscan",
     "location": {
       "lat": 43.4016,
@@ -977,7 +990,8 @@
       "lng": 11.9856,
       "modern_name": "Cortona",
       "ancient_name": "Curtun"
-    }
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Cortona_Tablet.jpg/500px-Cortona_Tablet.jpg"
   },
   {
     "id": "art-cippus-perusinus",
@@ -998,7 +1012,8 @@
       "lng": 12.3908,
       "modern_name": "Perugia",
       "ancient_name": "Perusia"
-    }
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cippo_perugino%2C_con_iscrizione_in_lingua_etrusca_su_un_atto_giuridico_tra_le_famiglie_dei_velthina_e_degli_afuna%2C_02.jpg/500px-Cippo_perugino%2C_con_iscrizione_in_lingua_etrusca_su_un_atto_giuridico_tra_le_famiglie_dei_velthina_e_degli_afuna%2C_02.jpg"
   },
   {
     "id": "art-winged-horses",
@@ -1013,7 +1028,7 @@
     "institution": "Museo Nazionale Tarquiniese",
     "provenance": "Ara della Regina temple, Tarquinia",
     "description": "Pair of winged horses from the pediment of the Ara della Regina temple. Among the finest surviving Etruscan terracotta sculptures, showing exceptional dynamism and grace.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Tarquinia_CavaliAlati.jpg/500px-Tarquinia_CavaliAlati.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Photo_Paolo_Villa_VR_2016_%28VT%29_F0163960tris_Palazzo_Vitelleschi%2C_cavalli_alati_bardati%2C_scultura_etrusca_ellenistica%2C_insieme%2C_Tarquinia.jpg/500px-Photo_Paolo_Villa_VR_2016_%28VT%29_F0163960tris_Palazzo_Vitelleschi%2C_cavalli_alati_bardati%2C_scultura_etrusca_ellenistica%2C_insieme%2C_Tarquinia.jpg",
     "culture": "Etruscan",
     "location": {
       "lat": 42.2494,
@@ -1035,7 +1050,7 @@
     "institution": "Musei Capitolini, Rome",
     "provenance": "Rome",
     "description": "The iconic bronze she-wolf nursing Romulus and Remus. Traditionally attributed to 5th century BCE Etruscan craftsmen, but radiocarbon dating of the casting core (2006) suggests medieval origin. The twins are Renaissance additions by Antonio Pollaiuolo.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/She-wolf_suckles_Romulus_and_Remus.jpg/500px-She-wolf_suckles_Romulus_and_Remus.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Lupa_Capitolina%2C_Rome.jpg/500px-Lupa_Capitolina%2C_Rome.jpg",
     "culture": "Etruscan (disputed)",
     "location": {
       "lat": 41.893,
@@ -1063,7 +1078,8 @@
       "lng": 12.8917,
       "modern_name": "Palestrina",
       "ancient_name": "Praeneste"
-    }
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Closeup_of_engraving_on_the_Ficoroni_Cista_depicting_the_thirsty_Argonauts_Bronze_340-330_BCE_made_by_Novios_Plautios_from_Palestrina_National_Etruscan_Museum_of_Villa_Giulia.jpg/500px-thumbnail.jpg"
   },
   {
     "id": "art-francois-tomb",
@@ -1084,7 +1100,8 @@
       "lng": 11.6333,
       "modern_name": "Montalto di Castro",
       "ancient_name": "Velch/Vulci"
-    }
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Etruscan_tomb_paintings%2C_Their_subjects_and_significance_%28IA_etruscantombpain00poul%29.pdf/page1-500px-Etruscan_tomb_paintings%2C_Their_subjects_and_significance_%28IA_etruscantombpain00poul%29.pdf.jpg"
   },
   {
     "id": "art-regolini-galassi",
@@ -1105,7 +1122,8 @@
       "lng": 12.0986,
       "modern_name": "Cerveteri",
       "ancient_name": "Caere"
-    }
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ornamental_disc-type_fibula%2C_Cerveteri%2C_Regolini-Galassi_tomb%2C_675-650_BC%2C_gold%2C_inv._20552_-_Museo_Gregoriano_Etrusco_-_Vatican_Museums_-_DSC01184.jpg/500px-Ornamental_disc-type_fibula%2C_Cerveteri%2C_Regolini-Galassi_tomb%2C_675-650_BC%2C_gold%2C_inv._20552_-_Museo_Gregoriano_Etrusco_-_Vatican_Museums_-_DSC01184.jpg"
   },
   {
     "id": "art-tomb-leopards",
@@ -1148,7 +1166,8 @@
       "lng": 11.7614,
       "modern_name": "Tarquinia",
       "ancient_name": "Tarchna"
-    }
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Etruscan_tomb_paintings%2C_Their_subjects_and_significance_%28IA_etruscantombpain00poul%29.pdf/page1-500px-Etruscan_tomb_paintings%2C_Their_subjects_and_significance_%28IA_etruscantombpain00poul%29.pdf.jpg"
   },
   {
     "id": "art-sarcophagus-spouses-louvre",
@@ -1169,7 +1188,8 @@
       "lng": 12.0986,
       "modern_name": "Cerveteri",
       "ancient_name": "Caere"
-    }
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sarcophage_des_%C3%A9poux_-_Mus%C3%A9e_du_Louvre_AGER_Cp_5194.1.jpg/500px-Sarcophage_des_%C3%A9poux_-_Mus%C3%A9e_du_Louvre_AGER_Cp_5194.1.jpg"
   },
   {
     "id": "art-liber-linteus",
@@ -1190,7 +1210,8 @@
       "lng": 15.9775,
       "modern_name": "Zagreb, Croatia",
       "ancient_name": ""
-    }
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Zagreba%C4%8Dka_mumija.jpg/500px-Zagreba%C4%8Dka_mumija.jpg"
   },
   {
     "id": "art-cowboy-murlo",
@@ -1234,7 +1255,7 @@
       "modern_name": "Piacenza, Emilia-Romagna",
       "ancient_name": ""
     },
-    "image_url": ""
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Piacenza_Bronzeleber.jpg/500px-Piacenza_Bronzeleber.jpg"
   },
   {
     "id": "art-tomb-diving",
@@ -1256,7 +1277,7 @@
       "modern_name": "Paestum, Campania",
       "ancient_name": "Poseidonia"
     },
-    "image_url": ""
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Tomb_of_the_diver_in_Paestum_01.jpg/500px-Tomb_of_the_diver_in_Paestum_01.jpg"
   },
   {
     "id": "site-gravisca",
@@ -1280,7 +1301,8 @@
         "author": "Torelli, M.",
         "year": 1977
       }
-    ]
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gravisca.jpg/500px-Gravisca.jpg"
   },
   {
     "id": "site-cosa",
@@ -1304,7 +1326,8 @@
         "author": "Brown, F.E.",
         "year": 1980
       }
-    ]
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Cosa_%28273_av._J._C.%29.jpg/500px-Cosa_%28273_av._J._C.%29.jpg"
   },
   {
     "id": "site-san-giovenale",
@@ -1328,7 +1351,8 @@
         "author": "Nylander, C.",
         "year": 1986
       }
-    ]
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Photo_Paolo_Villa_VR_2016_%28VT%29_F0164018tris_San_Giovenale%2C_resti_etruschi%2C_citt%C3%A0_%2C_tombe_a_tumulo_e_tagliata.jpg/500px-Photo_Paolo_Villa_VR_2016_%28VT%29_F0164018tris_San_Giovenale%2C_resti_etruschi%2C_citt%C3%A0_%2C_tombe_a_tumulo_e_tagliata.jpg"
   },
   {
     "id": "site-acquarossa",
@@ -1352,7 +1376,8 @@
         "author": "Wikander, \u00d6.",
         "year": 1993
       }
-    ]
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Terracotta_architectural_details_Acquarossa.jpg/500px-Terracotta_architectural_details_Acquarossa.jpg"
   },
   {
     "id": "art-sarcophagus-amazons",
@@ -1374,7 +1399,7 @@
       "modern_name": "Tarquinia",
       "ancient_name": "Tarchna"
     },
-    "image_url": ""
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Handbook_of_archaeology%2C_Egyptian_-_Greek_-_Etruscan_-_Roman_%28IA_handbookofarchae00west%29.pdf/page1-500px-Handbook_of_archaeology%2C_Egyptian_-_Greek_-_Etruscan_-_Roman_%28IA_handbookofarchae00west%29.pdf.jpg"
   },
   {
     "id": "art-tomb-shields",
@@ -1396,7 +1421,7 @@
       "modern_name": "Tarquinia",
       "ancient_name": "Tarchna"
     },
-    "image_url": ""
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Etruscan_tomb_paintings%2C_Their_subjects_and_significance_%28IA_etruscantombpain00poul%29.pdf/page1-500px-Etruscan_tomb_paintings%2C_Their_subjects_and_significance_%28IA_etruscantombpain00poul%29.pdf.jpg"
   },
   {
     "id": "coll-penn-murlo",
@@ -1414,7 +1439,8 @@
       "Full excavation database",
       "3D architectural reconstructions",
       "Terracotta catalog"
-    ]
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/CowboyMurlo.jpg/500px-CowboyMurlo.jpg"
   },
   {
     "id": "site-capua",
@@ -1438,7 +1464,8 @@
         "author": "Frederiksen, M.",
         "year": 1984
       }
-    ]
+    ],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Etruscan_cinerary_urn_with_lid%2C_Capua_%28Italy%29%2C_bronze%2C_around_500_BC_8768.jpg/500px-Etruscan_cinerary_urn_with_lid%2C_Capua_%28Italy%29%2C_bronze%2C_around_500_BC_8768.jpg"
   },
   {
     "id": "art-tomb-triclinium",
@@ -1459,7 +1486,8 @@
       "lng": 11.7614,
       "modern_name": "Tarquinia",
       "ancient_name": "Tarchna"
-    }
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Etruskischer_Meister_002.jpg/500px-Etruskischer_Meister_002.jpg"
   },
   {
     "id": "art-tomb-bulls",
@@ -1480,7 +1508,8 @@
       "lng": 11.7614,
       "modern_name": "Tarquinia",
       "ancient_name": "Tarchna"
-    }
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Achilles_ambushing_Troilus_%28on_horseback%29_Etruscan_fresco%2C_Tomb_of_the_Bulls%2C_Tarquinia%2C_530%E2%80%93520_BCE.jpg/500px-Achilles_ambushing_Troilus_%28on_horseback%29_Etruscan_fresco%2C_Tomb_of_the_Bulls%2C_Tarquinia%2C_530%E2%80%93520_BCE.jpg"
   },
   {
     "id": "art-tomb-hunting-fishing",
@@ -1501,7 +1530,8 @@
       "lng": 11.7614,
       "modern_name": "Tarquinia",
       "ancient_name": "Tarchna"
-    }
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Catalogue_of_a_collection_of_fine_and_rare_engravings_and_etchings_..._%2804-25-1879%29_%28IA_catalogueofcolle00stro_2%29.pdf/page1-500px-Catalogue_of_a_collection_of_fine_and_rare_engravings_and_etchings_..._%2804-25-1879%29_%28IA_catalogueofcolle00stro_2%29.pdf.jpg"
   },
   {
     "id": "site-sovana",
@@ -1518,7 +1548,8 @@
       "lng": 11.6444,
       "modern_name": "Sovana, Tuscany",
       "ancient_name": "Suana"
-    }
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/The_cities_and_cemeteries_of_Etruria_%28IA_citiescemeteries02denn%29.pdf/page1-500px-The_cities_and_cemeteries_of_Etruria_%28IA_citiescemeteries02denn%29.pdf.jpg"
   },
   {
     "id": "site-san-giuliano",
@@ -1535,7 +1566,8 @@
       "lng": 12.0667,
       "modern_name": "Barbarano Romano, Lazio",
       "ancient_name": "San Giuliano"
-    }
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Barbarano_romano_Forra.jpg/120px-Barbarano_romano_Forra.jpg"
   },
   {
     "id": "site-adria",
@@ -1552,7 +1584,8 @@
       "lng": 12.0564,
       "modern_name": "Adria, Veneto",
       "ancient_name": "Hatria"
-    }
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Venice%3B_Grant_Allen%27s_historical_guide_books_to_the_principal_cities_of_Europe_treating_concisely_and_thoroughly_of_the_principal_historic_and_artistic_points_of_interest_therein_%28IA_venicegrantallen00allerich%29.pdf/page1-330px-thumbnail.pdf.jpg"
   },
   {
     "id": "site-mantua",
@@ -1569,7 +1602,8 @@
       "lng": 10.7914,
       "modern_name": "Mantua, Lombardy",
       "ancient_name": "Manthua"
-    }
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Etruscan_Bologna-_a_study_%28IA_etruscanbolognas00burtiala%29.pdf/page1-500px-Etruscan_Bologna-_a_study_%28IA_etruscanbolognas00burtiala%29.pdf.jpg"
   },
   {
     "id": "art-capua-tile",
@@ -1590,6 +1624,7 @@
       "lng": 14.2133,
       "modern_name": "Santa Maria Capua Vetere",
       "ancient_name": "Capua"
-    }
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ancient_legends_of_Roman_history_%281905%29_%2814590929287%29.jpg/500px-Ancient_legends_of_Roman_history_%281905%29_%2814590929287%29.jpg"
   }
 ]
