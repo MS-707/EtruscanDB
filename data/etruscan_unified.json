@@ -2076,5 +2076,125 @@
       "Underground labyrinth access"
     ],
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sarcofago_etrusco_-_Etruscan_Sarcophagus%2C_Museo_Archeologico_di_Chiusi.jpg/500px-Sarcofago_etrusco_-_Etruscan_Sarcophagus%2C_Museo_Archeologico_di_Chiusi.jpg"
+  },
+  {
+    "id": "art-antefissa-veii",
+    "name": "Antefix with Maenad and Silenus",
+    "type": "artifact",
+    "category": "architectural terracotta",
+    "period": "Archaic",
+    "date_range": "ca. 510 BCE",
+    "date_begin": -520,
+    "date_end": -500,
+    "medium": "Painted terracotta",
+    "institution": "Museo Nazionale Etrusco di Villa Giulia, Rome",
+    "provenance": "Veii",
+    "description": "Polychrome terracotta roof ornament showing a maenad and silenus in a dynamic embrace. Etruscan temples were lavishly decorated with such terracottas \u2014 unlike Greek stone temples. These colorful roof decorations are uniquely Etruscan.",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 42.0214,
+      "lng": 12.4003,
+      "modern_name": "Isola Farnese",
+      "ancient_name": "Veii"
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Antefix_-_Villa_Giulia.jpg/500px-Antefix_-_Villa_Giulia.jpg"
+  },
+  {
+    "id": "site-castel-dasso",
+    "name": "Castel d'Asso",
+    "type": "site",
+    "category": "necropolis",
+    "period": "Classical\u2013Hellenistic",
+    "date_range": "400\u2013200 BCE",
+    "date_begin": -400,
+    "date_end": -200,
+    "description": "Dramatic Etruscan rock-cut necropolis in a deep ravine near Viterbo. Dozens of facade tombs carved into cliff faces, some with elaborate architectural details. One of the most atmospheric Etruscan sites in Italy.",
+    "location": {
+      "lat": 42.3889,
+      "lng": 11.925,
+      "modern_name": "Viterbo, Lazio",
+      "ancient_name": "Castel d'Asso"
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_cities_and_cemeteries_of_Etruria_%28IA_citiesandcemeter01denniala%29.pdf/page1-500px-The_cities_and_cemeteries_of_Etruria_%28IA_citiesandcemeter01denniala%29.pdf.jpg"
+  },
+  {
+    "id": "art-terracotta-horses-tarquinia",
+    "name": "Terracotta Horses from Tarquinia",
+    "type": "artifact",
+    "category": "terracotta sculpture",
+    "period": "Archaic",
+    "date_range": "ca. 580\u2013560 BCE",
+    "date_begin": -580,
+    "date_end": -560,
+    "medium": "Painted terracotta",
+    "institution": "Museo Nazionale Tarquiniese",
+    "provenance": "Tarquinia",
+    "description": "Large terracotta horses from a temple pediment, showing the scale and ambition of Etruscan architectural decoration. The modeled musculature and painted details demonstrate mastery of large-scale terracotta work.",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 42.2508,
+      "lng": 11.7558,
+      "modern_name": "Tarquinia",
+      "ancient_name": "Tarchna"
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/House-shaped_painted_terracotta_urn_-_youths_with_horses_-_Tarquinia_MAN.jpg/500px-House-shaped_painted_terracotta_urn_-_youths_with_horses_-_Tarquinia_MAN.jpg"
+  },
+  {
+    "id": "site-bisenzio",
+    "name": "Bisenzio (Visentium)",
+    "type": "site",
+    "category": "settlement",
+    "period": "Villanovan\u2013Archaic",
+    "date_range": "900\u2013500 BCE",
+    "date_begin": -900,
+    "date_end": -500,
+    "description": "Etruscan settlement on the shores of Lake Bolsena, with rich Villanovan-era tombs. Significant for understanding early Etruscan material culture and the transition from Villanovan to full Etruscan civilization.",
+    "location": {
+      "lat": 42.6167,
+      "lng": 11.8833,
+      "modern_name": "Capodimonte, Lazio",
+      "ancient_name": "Visentium"
+    },
+    "image_url": ""
+  },
+  {
+    "id": "art-sarcophagus-magistrate",
+    "name": "Sarcophagus of the Magistrate (Laris Pulenas)",
+    "type": "artifact",
+    "category": "sarcophagus",
+    "period": "Hellenistic",
+    "date_range": "ca. 300\u2013250 BCE",
+    "date_begin": -300,
+    "date_end": -250,
+    "medium": "Painted stone (nenfro)",
+    "institution": "Museo Nazionale Tarquiniese",
+    "provenance": "Tarquinia",
+    "description": "Sarcophagus of Laris Pulenas showing a reclining man holding an open scroll listing his family's achievements. One of the most important sources for understanding Etruscan aristocratic self-representation and literacy.",
+    "culture": "Etruscan",
+    "location": {
+      "lat": 42.2508,
+      "lng": 11.7558,
+      "modern_name": "Tarquinia",
+      "ancient_name": "Tarchna"
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sarcophagus_of_Laris_Pulenas_Detail.jpg/500px-Sarcophagus_of_Laris_Pulenas_Detail.jpg"
+  },
+  {
+    "id": "coll-villa-poniatowski",
+    "name": "Museo Nazionale Etrusco di Villa Poniatowski",
+    "type": "collection",
+    "category": "national museum",
+    "description": "Extension of the Villa Giulia museum, dedicated to Etruscan and Latian culture from the surrounding region. Houses finds from Veii, Cerveteri, Vulci, and the Faliscan territory.",
+    "location": {
+      "lat": 41.9178,
+      "lng": 12.4761,
+      "modern_name": "Rome, Italy"
+    },
+    "notable_objects": [
+      "Finds from major Etruscan sites",
+      "Faliscan temple decorations"
+    ],
+    "source_url": "https://www.museoetru.it/",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Etruscan_National_Museum_of_Villa_Giulia.37.jpg/500px-Etruscan_National_Museum_of_Villa_Giulia.37.jpg"
   }
 ]

@@ -16,7 +16,7 @@ Inspired by [SlaveVoyages.org](https://www.slavevoyages.org/) — the gold stand
 - **Filterable Sidebar** — Search and filter by type, period, location, institution
 - **Detail Panel** — Rich metadata, descriptions, images, provenance for each record
 - **Timeline** — Drag-to-filter timeline spanning 1100 BCE to 200 CE with Etruscan period labels
-- **72 Records** — 31 sites, 13 collections, 28 artifacts, all with coordinates
+- **100 Records** — 39 sites, 17 collections, 44 artifacts, all with coordinates
 
 ## Data Sources
 
@@ -36,9 +36,9 @@ Inspired by [SlaveVoyages.org](https://www.slavevoyages.org/) — the gold stand
 
 | Type | Count | Description |
 |------|-------|-------------|
-| Sites | 31 | Archaeological sites — cities, necropoleis, sanctuaries, settlements |
-| Collections | 13 | Museums and digital archives holding Etruscan material |
-| Artifacts | 28 | Significant objects — bronzes, paintings, inscriptions, jewelry |
+| Sites | 39 | Archaeological sites — cities, necropoleis, sanctuaries, settlements |
+| Collections | 17 | Museums and digital archives holding Etruscan material |
+| Artifacts | 44 | Significant objects — bronzes, paintings, inscriptions, jewelry |
 
 ## Periods Covered
 
